@@ -1,0 +1,198 @@
+работа с mdadm.
+добавить в Vagrantfile еще дисков
+сломать/починить raid
+собрать R0/R5/R10 на выбор 
+прописать собранный рейд в конф, чтобы рейд собирался при загрузке
+создать GPT раздел и 5 партиций
+
+в качестве проверки принимаются - измененный Vagrantfile, скрипт для создания рейда, конф для 
+автосборки рейда при загрузке
+
+* доп. задание - Vagrantfile, который сразу собирает систему с подключенным рейдом
+
+
+[root@otuslinux ~]# mdadm --zero-superblock /dev/sd{b,c,d,e,f,g}
+mdadm: Unrecognised md component device - /dev/sdb
+mdadm: Unrecognised md component device - /dev/sdc
+mdadm: Unrecognised md component device - /dev/sdd
+mdadm: Unrecognised md component device - /dev/sde
+mdadm: Unrecognised md component device - /dev/sdf
+mdadm: Unrecognised md component device - /dev/sdg
+[root@otuslinux ~]#
+
+mdadm --create /dev/md0 --level 5 -n 6 /dev/sd{b,c,d,e,f,g}
+
+[root@otuslinux ~]# mdadm --create /dev/md0 --level 5 -n 6 /dev/sd{b,c,d,e,f,g}
+mdadm: Defaulting to version 1.2 metadata
+mdadm: array /dev/md0 started.
+[root@otuslinux ~]# mdadm --examine --scan
+ARRAY /dev/md/0  metadata=1.2 UUID=83fd77ec:1f79584a:115930ed:800d21d4 name=otuslinux:0
+[root@otuslinux ~]#
+
+[root@otuslinux ~]# mdadm -D /dev/md0
+/dev/md0:
+           Version : 1.2
+     Creation Time : Tue Jul 31 13:43:21 2018
+        Raid Level : raid5
+        Array Size : 1269760 (1240.00 MiB 1300.23 MB)
+     Used Dev Size : 253952 (248.00 MiB 260.05 MB)
+      Raid Devices : 6
+     Total Devices : 6
+       Persistence : Superblock is persistent
+
+       Update Time : Tue Jul 31 13:43:50 2018
+             State : clean
+    Active Devices : 6
+   Working Devices : 6
+    Failed Devices : 0
+     Spare Devices : 0
+
+            Layout : left-symmetric
+        Chunk Size : 512K
+
+Consistency Policy : resync
+
+              Name : otuslinux:0  (local to host otuslinux)
+              UUID : 83fd77ec:1f79584a:115930ed:800d21d4
+            Events : 18
+
+    Number   Major   Minor   RaidDevice State
+       0       8       16        0      active sync   /dev/sdb
+       1       8       32        1      active sync   /dev/sdc
+       2       8       48        2      active sync   /dev/sdd
+       3       8       64        3      active sync   /dev/sde
+       4       8       80        4      active sync   /dev/sdf
+       6       8       96        5      active sync   /dev/sdg
+[root@otuslinux ~]#
+
+mdadm /dev/md0 -f dev/sdg
+mkdir /dev/mdadm
+echo "DEVICE /dev/sd[b,c,d,e,f,g]" > /etc/mdadm/mdadm.conf
+mdadm --detail --scan --verbose | awk '/ARRAY/ {print}' >> /etc/mdadm/mdadm.conf
+fdisk /dev/md0
+
+mkfs.ext3 /dev/md0p1
+
+
+[root@otuslinux ~]# mdadm -D /dev/md0
+/dev/md0:
+           Version : 1.2
+     Creation Time : Tue Jul 31 14:02:53 2018
+        Raid Level : raid5
+        Array Size : 1269760 (1240.00 MiB 1300.23 MB)
+     Used Dev Size : 253952 (248.00 MiB 260.05 MB)
+      Raid Devices : 6
+     Total Devices : 6
+       Persistence : Superblock is persistent
+
+       Update Time : Wed Aug  1 10:21:42 2018
+             State : clean
+    Active Devices : 6
+   Working Devices : 6
+    Failed Devices : 0
+     Spare Devices : 0
+
+            Layout : left-symmetric
+        Chunk Size : 512K
+
+Consistency Policy : resync
+
+              Name : otuslinux:0  (local to host otuslinux)
+              UUID : 34334579:66f80730:80bea292:18480f69
+            Events : 18
+
+    Number   Major   Minor   RaidDevice State
+       0       8       16        0      active sync   /dev/sdb
+       1       8       32        1      active sync   /dev/sdc
+       2       8       48        2      active sync   /dev/sdd
+       3       8       64        3      active sync   /dev/sde
+       4       8       80        4      active sync   /dev/sdf
+       6       8       96        5      active sync   /dev/sdg
+[root@otuslinux ~]# cat /proc/mdstat
+Personalities : [raid6] [raid5] [raid4]
+md0 : active raid5 sdg[6] sdf[4] sde[3] sdd[2] sdc[1] sdb[0]
+      1269760 blocks super 1.2 level 5, 512k chunk, algorithm 2 [6/6] [UUUUUU]
+
+unused devices: <none>
+[root@otuslinux ~]#
+[root@otuslinux ~]# mdadm /dev/md0 -f /dev/sdf
+mdadm: set /dev/sdf faulty in /dev/md0
+[root@otuslinux ~]# cat /proc/mdstat
+Personalities : [raid6] [raid5] [raid4]
+md0 : active raid5 sdg[6] sdf[4](F) sde[3] sdd[2] sdc[1] sdb[0]
+      1269760 blocks super 1.2 level 5, 512k chunk, algorithm 2 [6/5] [UUUU_U]
+
+unused devices: <none>
+[root@otuslinux ~]# mdadm /dev/md0 -r /dev/sdf
+mdadm: hot removed /dev/sdf from /dev/md0
+[root@otuslinux ~]# mdadm /dev/md0 -a /dev/sdf
+mdadm: added /dev/sdf
+[root@otuslinux ~]# cat /proc/mdstat
+Personalities : [raid6] [raid5] [raid4]
+md0 : active raid5 sdf[7] sdg[6] sde[3] sdd[2] sdc[1] sdb[0]
+      1269760 blocks super 1.2 level 5, 512k chunk, algorithm 2 [6/5] [UUUU_U]
+      [======>..............]  recovery = 31.5% (80404/253952) finish=0.2min speed=10050K/sec
+
+unused devices: <none>
+[root@otuslinux ~]# cat /proc/mdstat
+Personalities : [raid6] [raid5] [raid4]
+md0 : active raid5 sdf[7] sdg[6] sde[3] sdd[2] sdc[1] sdb[0]
+      1269760 blocks super 1.2 level 5, 512k chunk, algorithm 2 [6/5] [UUUU_U]
+      [============>........]  recovery = 62.3% (158760/253952) finish=0.1min speed=9922K/sec
+
+unused devices: <none>
+[root@otuslinux ~]# cat /proc/mdstat
+Personalities : [raid6] [raid5] [raid4]
+md0 : active raid5 sdf[7] sdg[6] sde[3] sdd[2] sdc[1] sdb[0]
+      1269760 blocks super 1.2 level 5, 512k chunk, algorithm 2 [6/5] [UUUU_U]
+      [=============>.......]  recovery = 68.6% (174636/253952) finish=0.1min speed=9702K/sec
+
+unused devices: <none>
+[root@otuslinux ~]# cat /proc/mdstat
+Personalities : [raid6] [raid5] [raid4]
+md0 : active raid5 sdf[7] sdg[6] sde[3] sdd[2] sdc[1] sdb[0]
+      1269760 blocks super 1.2 level 5, 512k chunk, algorithm 2 [6/5] [UUUU_U]
+      [===============>.....]  recovery = 78.0% (198708/253952) finish=0.0min speed=9462K/sec
+
+unused devices: <none>
+[root@otuslinux ~]# cat /proc/mdstat
+Personalities : [raid6] [raid5] [raid4]
+md0 : active raid5 sdf[7] sdg[6] sde[3] sdd[2] sdc[1] sdb[0]
+      1269760 blocks super 1.2 level 5, 512k chunk, algorithm 2 [6/5] [UUUU_U]
+      [==================>..]  recovery = 90.9% (231708/253952) finish=0.0min speed=9654K/sec
+
+unused devices: <none>
+[root@otuslinux ~]# cat /proc/mdstat
+Personalities : [raid6] [raid5] [raid4]
+md0 : active raid5 sdf[7] sdg[6] sde[3] sdd[2] sdc[1] sdb[0]
+      1269760 blocks super 1.2 level 5, 512k chunk, algorithm 2 [6/6] [UUUUUU]
+
+unused devices: <none>
+
+[root@otuslinux ~]# sgdisk -g -n 1::+200M /dev/md0
+The operation has completed successfully.
+[root@otuslinux ~]# sgdisk -g -n 2::+200M /dev/md0
+The operation has completed successfully.
+[root@otuslinux ~]# sgdisk -g -n 3::+200M /dev/md0
+The operation has completed successfully.
+[root@otuslinux ~]# sgdisk -g -n 4::+200M /dev/md0
+The operation has completed successfully.
+[root@otuslinux ~]# sgdisk -g -n 5::+200M /dev/md0
+The operation has completed successfully.
+[root@otuslinux ~]# sgdisk -p /dev/md0
+Disk /dev/md0: 2539520 sectors, 1.2 GiB
+Logical sector size: 512 bytes
+Disk identifier (GUID): 98917264-9E90-46DE-BBEE-82257658F566
+Partition table holds up to 128 entries
+First usable sector is 34, last usable sector is 2539486
+Partitions will be aligned on 2048-sector boundaries
+Total free space is 491453 sectors (240.0 MiB)
+
+Number  Start (sector)    End (sector)  Size       Code  Name
+   1            2048          411647   200.0 MiB   8300
+   2          411648          821247   200.0 MiB   8300
+   3          821248         1230847   200.0 MiB   8300
+   4         1230848         1640447   200.0 MiB   8300
+   5         1640448         2050047   200.0 MiB   8300
+[root@otuslinux ~]# ls /dev/md0*
+/dev/md0  /dev/md0p1  /dev/md0p2  /dev/md0p3  /dev/md0p4  /dev/md0p5
