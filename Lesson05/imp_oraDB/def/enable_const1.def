@@ -1,0 +1,9 @@
+spool enable_const.log
+
+BEGIN
+   FOR I IN (
+	SELECT 'ALTER TABLE '||t.owner||'.'||t.TABLE_NAME ||' ENABLE CONSTRAINT ' ||
+	    t.CONSTRAINT_NAME AS SQL_STR
+	FROM
+	    all_constraints t
+	where t.owner in ( 

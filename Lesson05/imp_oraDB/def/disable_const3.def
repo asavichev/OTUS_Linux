@@ -1,0 +1,13 @@
+     ) and t.status = 'ENABLED' 
+  ) loop
+    BEGIN
+      EXECUTE IMMEDIATE I.SQL_STR;
+    EXCEPTION
+       WHEN OTHERS THEN
+        NULL;
+    END;
+  end loop;
+end;
+/
+spool off
+exit

@@ -1,0 +1,6 @@
+schemas=MTK,YARD,BBD
+content=METADATA_ONLY
+parallel=4
+directory=expdp_tmp_dir
+logfile=meta.log
+network_link=system_prod

@@ -1,0 +1,18 @@
+	) and t.status = 'DISABLED'
+    )
+    LOOP
+	BEGIN
+	    EXECUTE IMMEDIATE I.SQL_STR;
+	EXCEPTION
+	    WHEN OTHERS THEN
+--		dbms_output.put_line(i.sql_str);         
+		NULL;
+	END;
+    END LOOP;
+END
+/
+begin
+  for i in (
+     select 'alter trigger '||t.owner||'.'||t.trigger_name||' enable' as sql_str
+     from all_triggers t
+     where t.owner in(

@@ -1,0 +1,9 @@
+spool logs/desable_const.log
+
+BEGIN
+   FOR I IN (
+	SELECT 'ALTER TABLE '||t.owner||'.'||t.TABLE_NAME ||' DISABLE CONSTRAINT ' ||
+	    t.CONSTRAINT_NAME AS SQL_STR
+	FROM --USER_CONSTRAINTS 
+	    all_constraints t
+	where t.owner in ( 
