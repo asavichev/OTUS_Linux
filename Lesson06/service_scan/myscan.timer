@@ -1,0 +1,9 @@
+[Unit]
+Description=Execute script test scan log...
+
+[Timer]
+
+Unit=myscan.service
+OnCalendar=*-*-* *:*:10,40
+[Install]
+WantedBy=multi-user.target

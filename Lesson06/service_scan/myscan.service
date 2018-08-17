@@ -1,0 +1,10 @@
+[Unit]
+Description=The test scan log...
+
+[Service]
+Type=simple
+EnvironmentFile=/etc/sysconfig/myscan
+ExecStart=/u01/work/show_log.sh
+
+[Install]
+WantedBy=multi-user.target

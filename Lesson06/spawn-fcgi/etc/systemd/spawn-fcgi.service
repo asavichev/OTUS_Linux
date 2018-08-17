@@ -1,0 +1,17 @@
+[Unit]
+Description=The Spawn FastCGI 
+After=network.target 
+
+[Service]
+# Type  = notify
+User  = apache
+Group = apache
+EnvironmentFile=/etc/sysconfig/spawn-fcgi
+ExecStart=/usr/bin/spawn-fcgi $OPTIONS
+StandardOutput = null
+StandardInput  = socket
+StandardError  = null
+Restart = always
+
+[Install]
+WantedBy=multi-user.target
