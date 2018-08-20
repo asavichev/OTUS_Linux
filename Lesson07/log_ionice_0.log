@@ -1,0 +1,4004 @@
+Генерация 1000 файлов.
+-- Mon Aug 20 15:42:27 UTC 2018 --
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0498 s, 211 MB/s
+--1000-fn1000.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.058011 s, 181 MB/s
+--999-fn999.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0461075 s, 227 MB/s
+--998-fn998.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0491276 s, 213 MB/s
+--997-fn997.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0459855 s, 228 MB/s
+--996-fn996.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.047865 s, 219 MB/s
+--995-fn995.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0440962 s, 238 MB/s
+--994-fn994.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0453328 s, 231 MB/s
+--993-fn993.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0548033 s, 191 MB/s
+--992-fn992.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0563473 s, 186 MB/s
+--991-fn991.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.047175 s, 222 MB/s
+--990-fn990.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0448044 s, 234 MB/s
+--989-fn989.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.046163 s, 227 MB/s
+--988-fn988.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0397436 s, 264 MB/s
+--987-fn987.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0492057 s, 213 MB/s
+--986-fn986.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0514597 s, 204 MB/s
+--985-fn985.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0495265 s, 212 MB/s
+--984-fn984.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.049895 s, 210 MB/s
+--983-fn983.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0513794 s, 204 MB/s
+--982-fn982.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0489854 s, 214 MB/s
+--981-fn981.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0486508 s, 216 MB/s
+--980-fn980.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0492331 s, 213 MB/s
+--979-fn979.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0494428 s, 212 MB/s
+--978-fn978.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0492845 s, 213 MB/s
+--977-fn977.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0870926 s, 120 MB/s
+--976-fn976.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0429186 s, 244 MB/s
+--975-fn975.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0447341 s, 234 MB/s
+--974-fn974.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0474379 s, 221 MB/s
+--973-fn973.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0444087 s, 236 MB/s
+--972-fn972.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0470463 s, 223 MB/s
+--971-fn971.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0460134 s, 228 MB/s
+--970-fn970.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0442335 s, 237 MB/s
+--969-fn969.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0448938 s, 234 MB/s
+--968-fn968.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.045538 s, 230 MB/s
+--967-fn967.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0458859 s, 229 MB/s
+--966-fn966.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0458603 s, 229 MB/s
+--965-fn965.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0477897 s, 219 MB/s
+--964-fn964.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.046697 s, 225 MB/s
+--963-fn963.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.045255 s, 232 MB/s
+--962-fn962.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.044181 s, 237 MB/s
+--961-fn961.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0577423 s, 182 MB/s
+--960-fn960.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0383207 s, 274 MB/s
+--959-fn959.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0460347 s, 228 MB/s
+--958-fn958.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0362592 s, 289 MB/s
+--957-fn957.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0386035 s, 272 MB/s
+--956-fn956.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0381115 s, 275 MB/s
+--955-fn955.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0393471 s, 266 MB/s
+--954-fn954.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0367426 s, 285 MB/s
+--953-fn953.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.039851 s, 263 MB/s
+--952-fn952.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0363499 s, 288 MB/s
+--951-fn951.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0404832 s, 259 MB/s
+--950-fn950.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.037812 s, 277 MB/s
+--949-fn949.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0414807 s, 253 MB/s
+--948-fn948.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0365797 s, 287 MB/s
+--947-fn947.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0377039 s, 278 MB/s
+--946-fn946.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0687256 s, 153 MB/s
+--945-fn945.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0595628 s, 176 MB/s
+--944-fn944.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0454357 s, 231 MB/s
+--943-fn943.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0433393 s, 242 MB/s
+--942-fn942.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0472699 s, 222 MB/s
+--941-fn941.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0516085 s, 203 MB/s
+--940-fn940.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0389412 s, 269 MB/s
+--939-fn939.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0432399 s, 243 MB/s
+--938-fn938.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0401836 s, 261 MB/s
+--937-fn937.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0390824 s, 268 MB/s
+--936-fn936.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0412754 s, 254 MB/s
+--935-fn935.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0544192 s, 193 MB/s
+--934-fn934.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0412659 s, 254 MB/s
+--933-fn933.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0375295 s, 279 MB/s
+--932-fn932.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0385192 s, 272 MB/s
+--931-fn931.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0778217 s, 135 MB/s
+--930-fn930.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0407087 s, 258 MB/s
+--929-fn929.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0395653 s, 265 MB/s
+--928-fn928.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0419053 s, 250 MB/s
+--927-fn927.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0415067 s, 253 MB/s
+--926-fn926.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0406284 s, 258 MB/s
+--925-fn925.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.041145 s, 255 MB/s
+--924-fn924.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0416418 s, 252 MB/s
+--923-fn923.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0419543 s, 250 MB/s
+--922-fn922.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0412741 s, 254 MB/s
+--921-fn921.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.041326 s, 254 MB/s
+--920-fn920.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0433954 s, 242 MB/s
+--919-fn919.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.04162 s, 252 MB/s
+--918-fn918.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0416699 s, 252 MB/s
+--917-fn917.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.042794 s, 245 MB/s
+--916-fn916.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0424743 s, 247 MB/s
+--915-fn915.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0457119 s, 229 MB/s
+--914-fn914.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0402167 s, 261 MB/s
+--913-fn913.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0402162 s, 261 MB/s
+--912-fn912.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0409444 s, 256 MB/s
+--911-fn911.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0421717 s, 249 MB/s
+--910-fn910.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411606 s, 255 MB/s
+--909-fn909.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411604 s, 255 MB/s
+--908-fn908.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0559642 s, 187 MB/s
+--907-fn907.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0511338 s, 205 MB/s
+--906-fn906.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0629518 s, 167 MB/s
+--905-fn905.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0519765 s, 202 MB/s
+--904-fn904.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.04908 s, 214 MB/s
+--903-fn903.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.052782 s, 199 MB/s
+--902-fn902.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0509 s, 206 MB/s
+--901-fn901.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0495391 s, 212 MB/s
+--900-fn900.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0569761 s, 184 MB/s
+--899-fn899.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0538953 s, 195 MB/s
+--898-fn898.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0563389 s, 186 MB/s
+--897-fn897.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0494895 s, 212 MB/s
+--896-fn896.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0528293 s, 198 MB/s
+--895-fn895.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.051967 s, 202 MB/s
+--894-fn894.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0522102 s, 201 MB/s
+--893-fn893.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0558484 s, 188 MB/s
+--892-fn892.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0494498 s, 212 MB/s
+--891-fn891.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0506707 s, 207 MB/s
+--890-fn890.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.050843 s, 206 MB/s
+--889-fn889.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0514588 s, 204 MB/s
+--888-fn888.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.042653 s, 246 MB/s
+--887-fn887.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0438863 s, 239 MB/s
+--886-fn886.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0434491 s, 241 MB/s
+--885-fn885.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0575917 s, 182 MB/s
+--884-fn884.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0324849 s, 323 MB/s
+--883-fn883.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0393344 s, 267 MB/s
+--882-fn882.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0400025 s, 262 MB/s
+--881-fn881.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0388987 s, 270 MB/s
+--880-fn880.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0383374 s, 274 MB/s
+--879-fn879.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.039542 s, 265 MB/s
+--878-fn878.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0406538 s, 258 MB/s
+--877-fn877.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0387107 s, 271 MB/s
+--876-fn876.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0392749 s, 267 MB/s
+--875-fn875.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0402969 s, 260 MB/s
+--874-fn874.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0407711 s, 257 MB/s
+--873-fn873.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0434476 s, 241 MB/s
+--872-fn872.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0403245 s, 260 MB/s
+--871-fn871.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0482906 s, 217 MB/s
+--870-fn870.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0548123 s, 191 MB/s
+--869-fn869.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0503041 s, 208 MB/s
+--868-fn868.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0409667 s, 256 MB/s
+--867-fn867.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0587014 s, 179 MB/s
+--866-fn866.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.042342 s, 248 MB/s
+--865-fn865.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0420312 s, 249 MB/s
+--864-fn864.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0414568 s, 253 MB/s
+--863-fn863.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0403354 s, 260 MB/s
+--862-fn862.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0409502 s, 256 MB/s
+--861-fn861.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0425436 s, 246 MB/s
+--860-fn860.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0436969 s, 240 MB/s
+--859-fn859.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0465812 s, 225 MB/s
+--858-fn858.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0486674 s, 215 MB/s
+--857-fn857.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.040021 s, 262 MB/s
+--856-fn856.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0422141 s, 248 MB/s
+--855-fn855.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0448655 s, 234 MB/s
+--854-fn854.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0549791 s, 191 MB/s
+--853-fn853.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0631036 s, 166 MB/s
+--852-fn852.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0552023 s, 190 MB/s
+--851-fn851.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0472627 s, 222 MB/s
+--850-fn850.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0475131 s, 221 MB/s
+--849-fn849.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0482985 s, 217 MB/s
+--848-fn848.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0487235 s, 215 MB/s
+--847-fn847.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0464851 s, 226 MB/s
+--846-fn846.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0471041 s, 223 MB/s
+--845-fn845.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0465902 s, 225 MB/s
+--844-fn844.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0391659 s, 268 MB/s
+--843-fn843.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0488774 s, 215 MB/s
+--842-fn842.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0482922 s, 217 MB/s
+--841-fn841.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0503694 s, 208 MB/s
+--840-fn840.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0505043 s, 208 MB/s
+--839-fn839.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0513983 s, 204 MB/s
+--838-fn838.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0640876 s, 164 MB/s
+--837-fn837.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0640784 s, 164 MB/s
+--836-fn836.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0518002 s, 202 MB/s
+--835-fn835.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0495663 s, 212 MB/s
+--834-fn834.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0501275 s, 209 MB/s
+--833-fn833.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0593157 s, 177 MB/s
+--832-fn832.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0507256 s, 207 MB/s
+--831-fn831.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0490682 s, 214 MB/s
+--830-fn830.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.04983 s, 210 MB/s
+--829-fn829.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0495311 s, 212 MB/s
+--828-fn828.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0489762 s, 214 MB/s
+--827-fn827.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0496228 s, 211 MB/s
+--826-fn826.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.051287 s, 204 MB/s
+--825-fn825.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.048224 s, 217 MB/s
+--824-fn824.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0650679 s, 161 MB/s
+--823-fn823.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0613557 s, 171 MB/s
+--822-fn822.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0458287 s, 229 MB/s
+--821-fn821.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0456904 s, 229 MB/s
+--820-fn820.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0458598 s, 229 MB/s
+--819-fn819.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0471583 s, 222 MB/s
+--818-fn818.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0481632 s, 218 MB/s
+--817-fn817.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0493392 s, 213 MB/s
+--816-fn816.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.040771 s, 257 MB/s
+--815-fn815.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0495535 s, 212 MB/s
+--814-fn814.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.048477 s, 216 MB/s
+--813-fn813.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0497322 s, 211 MB/s
+--812-fn812.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0591105 s, 177 MB/s
+--811-fn811.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0402057 s, 261 MB/s
+--810-fn810.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.049988 s, 210 MB/s
+--809-fn809.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0354983 s, 295 MB/s
+--808-fn808.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0487896 s, 215 MB/s
+--807-fn807.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0488747 s, 215 MB/s
+--806-fn806.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0549836 s, 191 MB/s
+--805-fn805.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0461062 s, 227 MB/s
+--804-fn804.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0438079 s, 239 MB/s
+--803-fn803.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0460197 s, 228 MB/s
+--802-fn802.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0448992 s, 234 MB/s
+--801-fn801.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0504001 s, 208 MB/s
+--800-fn800.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0495097 s, 212 MB/s
+--799-fn799.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0494372 s, 212 MB/s
+--798-fn798.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0480926 s, 218 MB/s
+--797-fn797.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0480281 s, 218 MB/s
+--796-fn796.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0485265 s, 216 MB/s
+--795-fn795.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0494936 s, 212 MB/s
+--794-fn794.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0400245 s, 262 MB/s
+--793-fn793.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0616174 s, 170 MB/s
+--792-fn792.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0556689 s, 188 MB/s
+--791-fn791.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0490297 s, 214 MB/s
+--790-fn790.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.060132 s, 174 MB/s
+--789-fn789.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0414862 s, 253 MB/s
+--788-fn788.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0396806 s, 264 MB/s
+--787-fn787.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0376645 s, 278 MB/s
+--786-fn786.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0388228 s, 270 MB/s
+--785-fn785.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0540263 s, 194 MB/s
+--784-fn784.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0417391 s, 251 MB/s
+--783-fn783.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0426862 s, 246 MB/s
+--782-fn782.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0495596 s, 212 MB/s
+--781-fn781.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0406182 s, 258 MB/s
+--780-fn780.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.042069 s, 249 MB/s
+--779-fn779.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411616 s, 255 MB/s
+--778-fn778.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0554545 s, 189 MB/s
+--777-fn777.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.050349 s, 208 MB/s
+--776-fn776.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0490109 s, 214 MB/s
+--775-fn775.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0493185 s, 213 MB/s
+--774-fn774.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0494843 s, 212 MB/s
+--773-fn773.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0518258 s, 202 MB/s
+--772-fn772.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.048281 s, 217 MB/s
+--771-fn771.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0497241 s, 211 MB/s
+--770-fn770.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0614937 s, 171 MB/s
+--769-fn769.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0481273 s, 218 MB/s
+--768-fn768.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.047657 s, 220 MB/s
+--767-fn767.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0465123 s, 225 MB/s
+--766-fn766.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0476022 s, 220 MB/s
+--765-fn765.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0405134 s, 259 MB/s
+--764-fn764.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0572623 s, 183 MB/s
+--763-fn763.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0652162 s, 161 MB/s
+--762-fn762.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0520658 s, 201 MB/s
+--761-fn761.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0492138 s, 213 MB/s
+--760-fn760.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0496425 s, 211 MB/s
+--759-fn759.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0490761 s, 214 MB/s
+--758-fn758.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0476153 s, 220 MB/s
+--757-fn757.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0489612 s, 214 MB/s
+--756-fn756.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0507782 s, 207 MB/s
+--755-fn755.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0549998 s, 191 MB/s
+--754-fn754.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0504904 s, 208 MB/s
+--753-fn753.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0492309 s, 213 MB/s
+--752-fn752.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0412971 s, 254 MB/s
+--751-fn751.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0406314 s, 258 MB/s
+--750-fn750.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411851 s, 255 MB/s
+--749-fn749.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0403586 s, 260 MB/s
+--748-fn748.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0421486 s, 249 MB/s
+--747-fn747.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0338437 s, 310 MB/s
+--746-fn746.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.040448 s, 259 MB/s
+--745-fn745.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0358062 s, 293 MB/s
+--744-fn744.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0392637 s, 267 MB/s
+--743-fn743.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0392533 s, 267 MB/s
+--742-fn742.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0401052 s, 261 MB/s
+--741-fn741.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0423175 s, 248 MB/s
+--740-fn740.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0372752 s, 281 MB/s
+--739-fn739.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0381149 s, 275 MB/s
+--738-fn738.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0533408 s, 197 MB/s
+--737-fn737.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0410959 s, 255 MB/s
+--736-fn736.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0416458 s, 252 MB/s
+--735-fn735.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0539561 s, 194 MB/s
+--734-fn734.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0597949 s, 175 MB/s
+--733-fn733.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0477043 s, 220 MB/s
+--732-fn732.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0408305 s, 257 MB/s
+--731-fn731.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0415112 s, 253 MB/s
+--730-fn730.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0408922 s, 256 MB/s
+--729-fn729.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411397 s, 255 MB/s
+--728-fn728.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0420238 s, 250 MB/s
+--727-fn727.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.039249 s, 267 MB/s
+--726-fn726.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0385743 s, 272 MB/s
+--725-fn725.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.040657 s, 258 MB/s
+--724-fn724.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0404825 s, 259 MB/s
+--723-fn723.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0414033 s, 253 MB/s
+--722-fn722.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0431392 s, 243 MB/s
+--721-fn721.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0436977 s, 240 MB/s
+--720-fn720.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0432072 s, 243 MB/s
+--719-fn719.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0439099 s, 239 MB/s
+--718-fn718.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0336455 s, 312 MB/s
+--717-fn717.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0385865 s, 272 MB/s
+--716-fn716.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0412132 s, 254 MB/s
+--715-fn715.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0402049 s, 261 MB/s
+--714-fn714.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0389683 s, 269 MB/s
+--713-fn713.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0371869 s, 282 MB/s
+--712-fn712.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0386891 s, 271 MB/s
+--711-fn711.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0396046 s, 265 MB/s
+--710-fn710.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0391934 s, 268 MB/s
+--709-fn709.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0394835 s, 266 MB/s
+--708-fn708.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0552489 s, 190 MB/s
+--707-fn707.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0426853 s, 246 MB/s
+--706-fn706.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0589486 s, 178 MB/s
+--705-fn705.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0338604 s, 310 MB/s
+--704-fn704.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0353652 s, 296 MB/s
+--703-fn703.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0370083 s, 283 MB/s
+--702-fn702.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0366252 s, 286 MB/s
+--701-fn701.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0601387 s, 174 MB/s
+--700-fn700.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0396871 s, 264 MB/s
+--699-fn699.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0423401 s, 248 MB/s
+--698-fn698.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0381896 s, 275 MB/s
+--697-fn697.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0479749 s, 219 MB/s
+--696-fn696.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0418203 s, 251 MB/s
+--695-fn695.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0419583 s, 250 MB/s
+--694-fn694.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0400774 s, 262 MB/s
+--693-fn693.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0409373 s, 256 MB/s
+--692-fn692.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0419054 s, 250 MB/s
+--691-fn691.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0421718 s, 249 MB/s
+--690-fn690.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0408138 s, 257 MB/s
+--689-fn689.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0408808 s, 256 MB/s
+--688-fn688.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0437808 s, 240 MB/s
+--687-fn687.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0442799 s, 237 MB/s
+--686-fn686.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411613 s, 255 MB/s
+--685-fn685.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.037312 s, 281 MB/s
+--684-fn684.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0366855 s, 286 MB/s
+--683-fn683.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0369083 s, 284 MB/s
+--682-fn682.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0401483 s, 261 MB/s
+--681-fn681.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0393731 s, 266 MB/s
+--680-fn680.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0389653 s, 269 MB/s
+--679-fn679.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0383328 s, 274 MB/s
+--678-fn678.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0362477 s, 289 MB/s
+--677-fn677.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0400435 s, 262 MB/s
+--676-fn676.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0475877 s, 220 MB/s
+--675-fn675.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0459459 s, 228 MB/s
+--674-fn674.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0479067 s, 219 MB/s
+--673-fn673.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0483796 s, 217 MB/s
+--672-fn672.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0470515 s, 223 MB/s
+--671-fn671.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0472535 s, 222 MB/s
+--670-fn670.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0547968 s, 191 MB/s
+--669-fn669.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0511326 s, 205 MB/s
+--668-fn668.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0491119 s, 214 MB/s
+--667-fn667.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.046445 s, 226 MB/s
+--666-fn666.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0468414 s, 224 MB/s
+--665-fn665.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0461631 s, 227 MB/s
+--664-fn664.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0473485 s, 221 MB/s
+--663-fn663.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0503346 s, 208 MB/s
+--662-fn662.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0503236 s, 208 MB/s
+--661-fn661.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0473963 s, 221 MB/s
+--660-fn660.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0457738 s, 229 MB/s
+--659-fn659.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0467997 s, 224 MB/s
+--658-fn658.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0496171 s, 211 MB/s
+--657-fn657.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0499932 s, 210 MB/s
+--656-fn656.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0465054 s, 225 MB/s
+--655-fn655.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0469106 s, 224 MB/s
+--654-fn654.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0406044 s, 258 MB/s
+--653-fn653.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0535971 s, 196 MB/s
+--652-fn652.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0507791 s, 206 MB/s
+--651-fn651.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0496594 s, 211 MB/s
+--650-fn650.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0499228 s, 210 MB/s
+--649-fn649.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0524416 s, 200 MB/s
+--648-fn648.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0494781 s, 212 MB/s
+--647-fn647.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0493448 s, 212 MB/s
+--646-fn646.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0496635 s, 211 MB/s
+--645-fn645.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0493613 s, 212 MB/s
+--644-fn644.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0489927 s, 214 MB/s
+--643-fn643.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0504999 s, 208 MB/s
+--642-fn642.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0491753 s, 213 MB/s
+--641-fn641.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0501119 s, 209 MB/s
+--640-fn640.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0496326 s, 211 MB/s
+--639-fn639.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0504338 s, 208 MB/s
+--638-fn638.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0610871 s, 172 MB/s
+--637-fn637.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0484662 s, 216 MB/s
+--636-fn636.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0499839 s, 210 MB/s
+--635-fn635.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0494969 s, 212 MB/s
+--634-fn634.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0606314 s, 173 MB/s
+--633-fn633.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0509494 s, 206 MB/s
+--632-fn632.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0482756 s, 217 MB/s
+--631-fn631.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0461504 s, 227 MB/s
+--630-fn630.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0461587 s, 227 MB/s
+--629-fn629.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0502532 s, 209 MB/s
+--628-fn628.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0914213 s, 115 MB/s
+--627-fn627.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0408113 s, 257 MB/s
+--626-fn626.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0392332 s, 267 MB/s
+--625-fn625.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0368187 s, 285 MB/s
+--624-fn624.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0416095 s, 252 MB/s
+--623-fn623.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0394033 s, 266 MB/s
+--622-fn622.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0370604 s, 283 MB/s
+--621-fn621.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0388377 s, 270 MB/s
+--620-fn620.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0387415 s, 271 MB/s
+--619-fn619.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0399931 s, 262 MB/s
+--618-fn618.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0402039 s, 261 MB/s
+--617-fn617.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0379214 s, 277 MB/s
+--616-fn616.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0423666 s, 248 MB/s
+--615-fn615.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0401283 s, 261 MB/s
+--614-fn614.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0525612 s, 199 MB/s
+--613-fn613.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0401241 s, 261 MB/s
+--612-fn612.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0410394 s, 256 MB/s
+--611-fn611.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0409442 s, 256 MB/s
+--610-fn610.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0427372 s, 245 MB/s
+--609-fn609.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0657238 s, 160 MB/s
+--608-fn608.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.051333 s, 204 MB/s
+--607-fn607.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0486328 s, 216 MB/s
+--606-fn606.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0482018 s, 218 MB/s
+--605-fn605.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0565144 s, 186 MB/s
+--604-fn604.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0452937 s, 232 MB/s
+--603-fn603.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0454261 s, 231 MB/s
+--602-fn602.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0454066 s, 231 MB/s
+--601-fn601.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.046809 s, 224 MB/s
+--600-fn600.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0487728 s, 215 MB/s
+--599-fn599.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0382517 s, 274 MB/s
+--598-fn598.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0594471 s, 176 MB/s
+--597-fn597.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0475134 s, 221 MB/s
+--596-fn596.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0489281 s, 214 MB/s
+--595-fn595.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0476945 s, 220 MB/s
+--594-fn594.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0469762 s, 223 MB/s
+--593-fn593.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0541514 s, 194 MB/s
+--592-fn592.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0537462 s, 195 MB/s
+--591-fn591.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0459907 s, 228 MB/s
+--590-fn590.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0488432 s, 215 MB/s
+--589-fn589.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0487107 s, 215 MB/s
+--588-fn588.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0499793 s, 210 MB/s
+--587-fn587.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0486387 s, 216 MB/s
+--586-fn586.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.04741 s, 221 MB/s
+--585-fn585.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0469228 s, 223 MB/s
+--584-fn584.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0474338 s, 221 MB/s
+--583-fn583.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0469864 s, 223 MB/s
+--582-fn582.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0486235 s, 216 MB/s
+--581-fn581.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0485023 s, 216 MB/s
+--580-fn580.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0484214 s, 217 MB/s
+--579-fn579.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0474008 s, 221 MB/s
+--578-fn578.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0552454 s, 190 MB/s
+--577-fn577.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.048884 s, 215 MB/s
+--576-fn576.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0468401 s, 224 MB/s
+--575-fn575.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0462916 s, 227 MB/s
+--574-fn574.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0545207 s, 192 MB/s
+--573-fn573.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0365849 s, 287 MB/s
+--572-fn572.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0371366 s, 282 MB/s
+--571-fn571.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.054013 s, 194 MB/s
+--570-fn570.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0448675 s, 234 MB/s
+--569-fn569.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0406396 s, 258 MB/s
+--568-fn568.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0416866 s, 252 MB/s
+--567-fn567.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0420262 s, 250 MB/s
+--566-fn566.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0545559 s, 192 MB/s
+--565-fn565.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0506356 s, 207 MB/s
+--564-fn564.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0611564 s, 171 MB/s
+--563-fn563.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0547207 s, 192 MB/s
+--562-fn562.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0472785 s, 222 MB/s
+--561-fn561.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0509604 s, 206 MB/s
+--560-fn560.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0529121 s, 198 MB/s
+--559-fn559.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0394406 s, 266 MB/s
+--558-fn558.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0375502 s, 279 MB/s
+--557-fn557.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0347294 s, 302 MB/s
+--556-fn556.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.037048 s, 283 MB/s
+--555-fn555.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0382374 s, 274 MB/s
+--554-fn554.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0380885 s, 275 MB/s
+--553-fn553.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.106513 s, 98.4 MB/s
+--552-fn552.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.058979 s, 178 MB/s
+--551-fn551.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0397348 s, 264 MB/s
+--550-fn550.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0505419 s, 207 MB/s
+--549-fn549.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0489774 s, 214 MB/s
+--548-fn548.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0484607 s, 216 MB/s
+--547-fn547.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0496349 s, 211 MB/s
+--546-fn546.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0406487 s, 258 MB/s
+--545-fn545.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0410482 s, 255 MB/s
+--544-fn544.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0393685 s, 266 MB/s
+--543-fn543.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0396464 s, 264 MB/s
+--542-fn542.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0397755 s, 264 MB/s
+--541-fn541.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0406561 s, 258 MB/s
+--540-fn540.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0418803 s, 250 MB/s
+--539-fn539.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0399562 s, 262 MB/s
+--538-fn538.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0409993 s, 256 MB/s
+--537-fn537.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0407806 s, 257 MB/s
+--536-fn536.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0539673 s, 194 MB/s
+--535-fn535.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0484586 s, 216 MB/s
+--534-fn534.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0493321 s, 213 MB/s
+--533-fn533.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0628239 s, 167 MB/s
+--532-fn532.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.065315 s, 161 MB/s
+--531-fn531.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0489267 s, 214 MB/s
+--530-fn530.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0527998 s, 199 MB/s
+--529-fn529.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0507275 s, 207 MB/s
+--528-fn528.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0483983 s, 217 MB/s
+--527-fn527.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0582075 s, 180 MB/s
+--526-fn526.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0526824 s, 199 MB/s
+--525-fn525.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.050144 s, 209 MB/s
+--524-fn524.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0509231 s, 206 MB/s
+--523-fn523.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0424954 s, 247 MB/s
+--522-fn522.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0576854 s, 182 MB/s
+--521-fn521.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0520172 s, 202 MB/s
+--520-fn520.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0496954 s, 211 MB/s
+--519-fn519.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0501755 s, 209 MB/s
+--518-fn518.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0639624 s, 164 MB/s
+--517-fn517.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0647831 s, 162 MB/s
+--516-fn516.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0504797 s, 208 MB/s
+--515-fn515.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0702873 s, 149 MB/s
+--514-fn514.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.059227 s, 177 MB/s
+--513-fn513.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0459816 s, 228 MB/s
+--512-fn512.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0505833 s, 207 MB/s
+--511-fn511.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0503781 s, 208 MB/s
+--510-fn510.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0522034 s, 201 MB/s
+--509-fn509.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0493918 s, 212 MB/s
+--508-fn508.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0496022 s, 211 MB/s
+--507-fn507.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0515427 s, 203 MB/s
+--506-fn506.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0601751 s, 174 MB/s
+--505-fn505.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0393758 s, 266 MB/s
+--504-fn504.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.053159 s, 197 MB/s
+--503-fn503.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0703461 s, 149 MB/s
+--502-fn502.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0478755 s, 219 MB/s
+--501-fn501.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0475853 s, 220 MB/s
+--500-fn500.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0390805 s, 268 MB/s
+--499-fn499.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0512101 s, 205 MB/s
+--498-fn498.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0574664 s, 182 MB/s
+--497-fn497.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0463743 s, 226 MB/s
+--496-fn496.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0464152 s, 226 MB/s
+--495-fn495.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0484942 s, 216 MB/s
+--494-fn494.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.045437 s, 231 MB/s
+--493-fn493.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0467297 s, 224 MB/s
+--492-fn492.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0489236 s, 214 MB/s
+--491-fn491.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0488854 s, 214 MB/s
+--490-fn490.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0497914 s, 211 MB/s
+--489-fn489.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0482062 s, 218 MB/s
+--488-fn488.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0466366 s, 225 MB/s
+--487-fn487.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0520495 s, 201 MB/s
+--486-fn486.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0500483 s, 210 MB/s
+--485-fn485.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0491258 s, 213 MB/s
+--484-fn484.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0509236 s, 206 MB/s
+--483-fn483.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0405965 s, 258 MB/s
+--482-fn482.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0407259 s, 257 MB/s
+--481-fn481.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411309 s, 255 MB/s
+--480-fn480.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0412158 s, 254 MB/s
+--479-fn479.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0414169 s, 253 MB/s
+--478-fn478.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0401809 s, 261 MB/s
+--477-fn477.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0537391 s, 195 MB/s
+--476-fn476.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0545154 s, 192 MB/s
+--475-fn475.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.04813 s, 218 MB/s
+--474-fn474.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0500743 s, 209 MB/s
+--473-fn473.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0610368 s, 172 MB/s
+--472-fn472.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0538284 s, 195 MB/s
+--471-fn471.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0382759 s, 274 MB/s
+--470-fn470.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0361848 s, 290 MB/s
+--469-fn469.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0370856 s, 283 MB/s
+--468-fn468.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0343986 s, 305 MB/s
+--467-fn467.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0480168 s, 218 MB/s
+--466-fn466.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0489468 s, 214 MB/s
+--465-fn465.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0482158 s, 217 MB/s
+--464-fn464.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0489753 s, 214 MB/s
+--463-fn463.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.046464 s, 226 MB/s
+--462-fn462.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0445783 s, 235 MB/s
+--461-fn461.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0467445 s, 224 MB/s
+--460-fn460.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0396176 s, 265 MB/s
+--459-fn459.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0500293 s, 210 MB/s
+--458-fn458.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0503159 s, 208 MB/s
+--457-fn457.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0566864 s, 185 MB/s
+--456-fn456.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0449175 s, 233 MB/s
+--455-fn455.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0395288 s, 265 MB/s
+--454-fn454.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.040816 s, 257 MB/s
+--453-fn453.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0410906 s, 255 MB/s
+--452-fn452.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0404735 s, 259 MB/s
+--451-fn451.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0409135 s, 256 MB/s
+--450-fn450.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0430723 s, 243 MB/s
+--449-fn449.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0403137 s, 260 MB/s
+--448-fn448.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0399813 s, 262 MB/s
+--447-fn447.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0404204 s, 259 MB/s
+--446-fn446.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0403418 s, 260 MB/s
+--445-fn445.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0397561 s, 264 MB/s
+--444-fn444.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0543596 s, 193 MB/s
+--443-fn443.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0494659 s, 212 MB/s
+--442-fn442.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0449266 s, 233 MB/s
+--441-fn441.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.048581 s, 216 MB/s
+--440-fn440.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.06718 s, 156 MB/s
+--439-fn439.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0491655 s, 213 MB/s
+--438-fn438.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0493734 s, 212 MB/s
+--437-fn437.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0485677 s, 216 MB/s
+--436-fn436.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0510869 s, 205 MB/s
+--435-fn435.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0506809 s, 207 MB/s
+--434-fn434.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0496248 s, 211 MB/s
+--433-fn433.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0567718 s, 185 MB/s
+--432-fn432.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0503108 s, 208 MB/s
+--431-fn431.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0460404 s, 228 MB/s
+--430-fn430.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0509593 s, 206 MB/s
+--429-fn429.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0464928 s, 226 MB/s
+--428-fn428.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0471521 s, 222 MB/s
+--427-fn427.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0453376 s, 231 MB/s
+--426-fn426.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0473578 s, 221 MB/s
+--425-fn425.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0412224 s, 254 MB/s
+--424-fn424.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0421452 s, 249 MB/s
+--423-fn423.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0415453 s, 252 MB/s
+--422-fn422.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.040934 s, 256 MB/s
+--421-fn421.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0412282 s, 254 MB/s
+--420-fn420.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0425869 s, 246 MB/s
+--419-fn419.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0413026 s, 254 MB/s
+--418-fn418.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0413564 s, 254 MB/s
+--417-fn417.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0413337 s, 254 MB/s
+--416-fn416.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.042457 s, 247 MB/s
+--415-fn415.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0409371 s, 256 MB/s
+--414-fn414.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0423154 s, 248 MB/s
+--413-fn413.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0406379 s, 258 MB/s
+--412-fn412.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0413414 s, 254 MB/s
+--411-fn411.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0318632 s, 329 MB/s
+--410-fn410.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0365504 s, 287 MB/s
+--409-fn409.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0500417 s, 210 MB/s
+--408-fn408.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0452388 s, 232 MB/s
+--407-fn407.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0459486 s, 228 MB/s
+--406-fn406.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0487665 s, 215 MB/s
+--405-fn405.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0493285 s, 213 MB/s
+--404-fn404.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0407345 s, 257 MB/s
+--403-fn403.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.057327 s, 183 MB/s
+--402-fn402.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0444973 s, 236 MB/s
+--401-fn401.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0482732 s, 217 MB/s
+--400-fn400.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0521516 s, 201 MB/s
+--399-fn399.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0568437 s, 184 MB/s
+--398-fn398.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0408886 s, 256 MB/s
+--397-fn397.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0389482 s, 269 MB/s
+--396-fn396.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0465369 s, 225 MB/s
+--395-fn395.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0482634 s, 217 MB/s
+--394-fn394.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0494363 s, 212 MB/s
+--393-fn393.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0506405 s, 207 MB/s
+--392-fn392.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0463685 s, 226 MB/s
+--391-fn391.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0498097 s, 211 MB/s
+--390-fn390.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0404431 s, 259 MB/s
+--389-fn389.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0393161 s, 267 MB/s
+--388-fn388.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0390988 s, 268 MB/s
+--387-fn387.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0375318 s, 279 MB/s
+--386-fn386.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0397019 s, 264 MB/s
+--385-fn385.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0471195 s, 223 MB/s
+--384-fn384.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0462287 s, 227 MB/s
+--383-fn383.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0529891 s, 198 MB/s
+--382-fn382.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0485683 s, 216 MB/s
+--381-fn381.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0486177 s, 216 MB/s
+--380-fn380.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411707 s, 255 MB/s
+--379-fn379.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.039698 s, 264 MB/s
+--378-fn378.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0570951 s, 184 MB/s
+--377-fn377.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0334872 s, 313 MB/s
+--376-fn376.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0372027 s, 282 MB/s
+--375-fn375.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0362925 s, 289 MB/s
+--374-fn374.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0366582 s, 286 MB/s
+--373-fn373.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0402455 s, 261 MB/s
+--372-fn372.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.038759 s, 271 MB/s
+--371-fn371.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0474901 s, 221 MB/s
+--370-fn370.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0484014 s, 217 MB/s
+--369-fn369.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.052463 s, 200 MB/s
+--368-fn368.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0407439 s, 257 MB/s
+--367-fn367.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0472135 s, 222 MB/s
+--366-fn366.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0457058 s, 229 MB/s
+--365-fn365.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0463152 s, 226 MB/s
+--364-fn364.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0381335 s, 275 MB/s
+--363-fn363.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.066221 s, 158 MB/s
+--362-fn362.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0501574 s, 209 MB/s
+--361-fn361.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0532657 s, 197 MB/s
+--360-fn360.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.050468 s, 208 MB/s
+--359-fn359.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0494391 s, 212 MB/s
+--358-fn358.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0482847 s, 217 MB/s
+--357-fn357.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.04977 s, 211 MB/s
+--356-fn356.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0478066 s, 219 MB/s
+--355-fn355.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0490918 s, 214 MB/s
+--354-fn354.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0492821 s, 213 MB/s
+--353-fn353.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0487765 s, 215 MB/s
+--352-fn352.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0493991 s, 212 MB/s
+--351-fn351.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0499809 s, 210 MB/s
+--350-fn350.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0503494 s, 208 MB/s
+--349-fn349.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0495743 s, 212 MB/s
+--348-fn348.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0497232 s, 211 MB/s
+--347-fn347.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0518359 s, 202 MB/s
+--346-fn346.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0488739 s, 215 MB/s
+--345-fn345.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0495984 s, 211 MB/s
+--344-fn344.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0496555 s, 211 MB/s
+--343-fn343.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.048741 s, 215 MB/s
+--342-fn342.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0499492 s, 210 MB/s
+--341-fn341.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0558473 s, 188 MB/s
+--340-fn340.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0459068 s, 228 MB/s
+--339-fn339.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0479926 s, 218 MB/s
+--338-fn338.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0471364 s, 222 MB/s
+--337-fn337.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0461447 s, 227 MB/s
+--336-fn336.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0463995 s, 226 MB/s
+--335-fn335.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0472038 s, 222 MB/s
+--334-fn334.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0468788 s, 224 MB/s
+--333-fn333.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.047536 s, 221 MB/s
+--332-fn332.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0771 s, 136 MB/s
+--331-fn331.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0375524 s, 279 MB/s
+--330-fn330.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0401018 s, 261 MB/s
+--329-fn329.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0387649 s, 270 MB/s
+--328-fn328.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0382385 s, 274 MB/s
+--327-fn327.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.039269 s, 267 MB/s
+--326-fn326.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.039291 s, 267 MB/s
+--325-fn325.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0373697 s, 281 MB/s
+--324-fn324.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0403619 s, 260 MB/s
+--323-fn323.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0380291 s, 276 MB/s
+--322-fn322.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0811775 s, 129 MB/s
+--321-fn321.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0438304 s, 239 MB/s
+--320-fn320.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0404402 s, 259 MB/s
+--319-fn319.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0387021 s, 271 MB/s
+--318-fn318.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0413681 s, 253 MB/s
+--317-fn317.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0800129 s, 131 MB/s
+--316-fn316.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0517276 s, 203 MB/s
+--315-fn315.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0487976 s, 215 MB/s
+--314-fn314.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0487746 s, 215 MB/s
+--313-fn313.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0492885 s, 213 MB/s
+--312-fn312.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0498157 s, 210 MB/s
+--311-fn311.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0510557 s, 205 MB/s
+--310-fn310.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.049187 s, 213 MB/s
+--309-fn309.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0500418 s, 210 MB/s
+--308-fn308.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0495041 s, 212 MB/s
+--307-fn307.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.049266 s, 213 MB/s
+--306-fn306.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0491178 s, 213 MB/s
+--305-fn305.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0504957 s, 208 MB/s
+--304-fn304.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0577697 s, 182 MB/s
+--303-fn303.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0464145 s, 226 MB/s
+--302-fn302.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0616901 s, 170 MB/s
+--301-fn301.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0487799 s, 215 MB/s
+--300-fn300.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0475444 s, 221 MB/s
+--299-fn299.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0474453 s, 221 MB/s
+--298-fn298.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0453532 s, 231 MB/s
+--297-fn297.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0465536 s, 225 MB/s
+--296-fn296.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0473882 s, 221 MB/s
+--295-fn295.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0470045 s, 223 MB/s
+--294-fn294.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0452867 s, 232 MB/s
+--293-fn293.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0501775 s, 209 MB/s
+--292-fn292.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0482935 s, 217 MB/s
+--291-fn291.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0475665 s, 220 MB/s
+--290-fn290.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0490624 s, 214 MB/s
+--289-fn289.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0461215 s, 227 MB/s
+--288-fn288.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0476777 s, 220 MB/s
+--287-fn287.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0498608 s, 210 MB/s
+--286-fn286.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0511182 s, 205 MB/s
+--285-fn285.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0458618 s, 229 MB/s
+--284-fn284.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0490016 s, 214 MB/s
+--283-fn283.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.047067 s, 223 MB/s
+--282-fn282.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0472379 s, 222 MB/s
+--281-fn281.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0463694 s, 226 MB/s
+--280-fn280.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0463049 s, 226 MB/s
+--279-fn279.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0491373 s, 213 MB/s
+--278-fn278.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0474822 s, 221 MB/s
+--277-fn277.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0478758 s, 219 MB/s
+--276-fn276.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.048206 s, 218 MB/s
+--275-fn275.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0469902 s, 223 MB/s
+--274-fn274.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0491691 s, 213 MB/s
+--273-fn273.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0471497 s, 222 MB/s
+--272-fn272.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0481499 s, 218 MB/s
+--271-fn271.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0508645 s, 206 MB/s
+--270-fn270.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.050481 s, 208 MB/s
+--269-fn269.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0462998 s, 226 MB/s
+--268-fn268.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0465331 s, 225 MB/s
+--267-fn267.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0464753 s, 226 MB/s
+--266-fn266.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0476591 s, 220 MB/s
+--265-fn265.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0466191 s, 225 MB/s
+--264-fn264.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0464216 s, 226 MB/s
+--263-fn263.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0459439 s, 228 MB/s
+--262-fn262.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0458677 s, 229 MB/s
+--261-fn261.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0462674 s, 227 MB/s
+--260-fn260.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0466693 s, 225 MB/s
+--259-fn259.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0484424 s, 216 MB/s
+--258-fn258.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0483091 s, 217 MB/s
+--257-fn257.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0391939 s, 268 MB/s
+--256-fn256.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0506752 s, 207 MB/s
+--255-fn255.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0511008 s, 205 MB/s
+--254-fn254.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0496826 s, 211 MB/s
+--253-fn253.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0385695 s, 272 MB/s
+--252-fn252.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411939 s, 255 MB/s
+--251-fn251.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0525341 s, 200 MB/s
+--250-fn250.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411393 s, 255 MB/s
+--249-fn249.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0408308 s, 257 MB/s
+--248-fn248.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0401054 s, 261 MB/s
+--247-fn247.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0422354 s, 248 MB/s
+--246-fn246.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.040953 s, 256 MB/s
+--245-fn245.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0565462 s, 185 MB/s
+--244-fn244.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.048693 s, 215 MB/s
+--243-fn243.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0391326 s, 268 MB/s
+--242-fn242.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0400332 s, 262 MB/s
+--241-fn241.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0405778 s, 258 MB/s
+--240-fn240.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0420665 s, 249 MB/s
+--239-fn239.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0436548 s, 240 MB/s
+--238-fn238.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0395452 s, 265 MB/s
+--237-fn237.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0417124 s, 251 MB/s
+--236-fn236.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0440386 s, 238 MB/s
+--235-fn235.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0403465 s, 260 MB/s
+--234-fn234.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0415742 s, 252 MB/s
+--233-fn233.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0406251 s, 258 MB/s
+--232-fn232.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0392987 s, 267 MB/s
+--231-fn231.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411391 s, 255 MB/s
+--230-fn230.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0399842 s, 262 MB/s
+--229-fn229.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0398537 s, 263 MB/s
+--228-fn228.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0406517 s, 258 MB/s
+--227-fn227.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0404723 s, 259 MB/s
+--226-fn226.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0410426 s, 255 MB/s
+--225-fn225.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0417193 s, 251 MB/s
+--224-fn224.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0413784 s, 253 MB/s
+--223-fn223.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411999 s, 255 MB/s
+--222-fn222.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0380702 s, 275 MB/s
+--221-fn221.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0394481 s, 266 MB/s
+--220-fn220.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0383556 s, 273 MB/s
+--219-fn219.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0383349 s, 274 MB/s
+--218-fn218.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0378057 s, 277 MB/s
+--217-fn217.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0379161 s, 277 MB/s
+--216-fn216.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0387721 s, 270 MB/s
+--215-fn215.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0383301 s, 274 MB/s
+--214-fn214.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0392679 s, 267 MB/s
+--213-fn213.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0389116 s, 269 MB/s
+--212-fn212.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.039471 s, 266 MB/s
+--211-fn211.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0382583 s, 274 MB/s
+--210-fn210.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0389817 s, 269 MB/s
+--209-fn209.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.040527 s, 259 MB/s
+--208-fn208.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0417012 s, 251 MB/s
+--207-fn207.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0423079 s, 248 MB/s
+--206-fn206.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.039177 s, 268 MB/s
+--205-fn205.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0377542 s, 278 MB/s
+--204-fn204.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0403316 s, 260 MB/s
+--203-fn203.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0381419 s, 275 MB/s
+--202-fn202.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0468207 s, 224 MB/s
+--201-fn201.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.048029 s, 218 MB/s
+--200-fn200.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.047681 s, 220 MB/s
+--199-fn199.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0464702 s, 226 MB/s
+--198-fn198.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0486118 s, 216 MB/s
+--197-fn197.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0469303 s, 223 MB/s
+--196-fn196.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0472356 s, 222 MB/s
+--195-fn195.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0453986 s, 231 MB/s
+--194-fn194.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0394753 s, 266 MB/s
+--193-fn193.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0581991 s, 180 MB/s
+--192-fn192.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.061414 s, 171 MB/s
+--191-fn191.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.047223 s, 222 MB/s
+--190-fn190.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.046931 s, 223 MB/s
+--189-fn189.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0474401 s, 221 MB/s
+--188-fn188.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0458156 s, 229 MB/s
+--187-fn187.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0405767 s, 258 MB/s
+--186-fn186.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0487911 s, 215 MB/s
+--185-fn185.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0509704 s, 206 MB/s
+--184-fn184.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.048629 s, 216 MB/s
+--183-fn183.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0505697 s, 207 MB/s
+--182-fn182.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0499289 s, 210 MB/s
+--181-fn181.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0512245 s, 205 MB/s
+--180-fn180.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0500011 s, 210 MB/s
+--179-fn179.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.049457 s, 212 MB/s
+--178-fn178.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0511251 s, 205 MB/s
+--177-fn177.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0492745 s, 213 MB/s
+--176-fn176.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0634035 s, 165 MB/s
+--175-fn175.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0483758 s, 217 MB/s
+--174-fn174.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0495447 s, 212 MB/s
+--173-fn173.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0521416 s, 201 MB/s
+--172-fn172.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0492851 s, 213 MB/s
+--171-fn171.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0510512 s, 205 MB/s
+--170-fn170.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0485845 s, 216 MB/s
+--169-fn169.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.040669 s, 258 MB/s
+--168-fn168.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0524062 s, 200 MB/s
+--167-fn167.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.050456 s, 208 MB/s
+--166-fn166.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0523227 s, 200 MB/s
+--165-fn165.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0428704 s, 245 MB/s
+--164-fn164.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0326425 s, 321 MB/s
+--163-fn163.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0453074 s, 231 MB/s
+--162-fn162.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0422489 s, 248 MB/s
+--161-fn161.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0535341 s, 196 MB/s
+--160-fn160.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0507188 s, 207 MB/s
+--159-fn159.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0459349 s, 228 MB/s
+--158-fn158.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0455638 s, 230 MB/s
+--157-fn157.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.039714 s, 264 MB/s
+--156-fn156.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0493909 s, 212 MB/s
+--155-fn155.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0496254 s, 211 MB/s
+--154-fn154.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0519533 s, 202 MB/s
+--153-fn153.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0500505 s, 210 MB/s
+--152-fn152.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0521189 s, 201 MB/s
+--151-fn151.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0494294 s, 212 MB/s
+--150-fn150.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0507421 s, 207 MB/s
+--149-fn149.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0499947 s, 210 MB/s
+--148-fn148.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0527138 s, 199 MB/s
+--147-fn147.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0485204 s, 216 MB/s
+--146-fn146.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.070157 s, 149 MB/s
+--145-fn145.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0378176 s, 277 MB/s
+--144-fn144.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0395445 s, 265 MB/s
+--143-fn143.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0452643 s, 232 MB/s
+--142-fn142.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.046388 s, 226 MB/s
+--141-fn141.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0441659 s, 237 MB/s
+--140-fn140.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0507358 s, 207 MB/s
+--139-fn139.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0491682 s, 213 MB/s
+--138-fn138.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0488437 s, 215 MB/s
+--137-fn137.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0498465 s, 210 MB/s
+--136-fn136.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0499713 s, 210 MB/s
+--135-fn135.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0499272 s, 210 MB/s
+--134-fn134.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0505898 s, 207 MB/s
+--133-fn133.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0508716 s, 206 MB/s
+--132-fn132.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0492356 s, 213 MB/s
+--131-fn131.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.050683 s, 207 MB/s
+--130-fn130.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0509064 s, 206 MB/s
+--129-fn129.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0406775 s, 258 MB/s
+--128-fn128.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.041325 s, 254 MB/s
+--127-fn127.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411816 s, 255 MB/s
+--126-fn126.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411266 s, 255 MB/s
+--125-fn125.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0400519 s, 262 MB/s
+--124-fn124.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0401143 s, 261 MB/s
+--123-fn123.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411887 s, 255 MB/s
+--122-fn122.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0401054 s, 261 MB/s
+--121-fn121.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0399673 s, 262 MB/s
+--120-fn120.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0442638 s, 237 MB/s
+--119-fn119.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0404566 s, 259 MB/s
+--118-fn118.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0421196 s, 249 MB/s
+--117-fn117.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0407948 s, 257 MB/s
+--116-fn116.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0405898 s, 258 MB/s
+--115-fn115.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0397411 s, 264 MB/s
+--114-fn114.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0486586 s, 215 MB/s
+--113-fn113.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0386079 s, 272 MB/s
+--112-fn112.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0394367 s, 266 MB/s
+--111-fn111.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0509379 s, 206 MB/s
+--110-fn110.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0497188 s, 211 MB/s
+--109-fn109.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.049779 s, 211 MB/s
+--108-fn108.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0493808 s, 212 MB/s
+--107-fn107.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0489268 s, 214 MB/s
+--106-fn106.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0501106 s, 209 MB/s
+--105-fn105.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0509559 s, 206 MB/s
+--104-fn104.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0647533 s, 162 MB/s
+--103-fn103.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0500173 s, 210 MB/s
+--102-fn102.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0488745 s, 215 MB/s
+--101-fn101.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0574439 s, 183 MB/s
+--100-fn100.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0462375 s, 227 MB/s
+--99-fn99.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0498561 s, 210 MB/s
+--98-fn98.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0465999 s, 225 MB/s
+--97-fn97.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0458799 s, 229 MB/s
+--96-fn96.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0476485 s, 220 MB/s
+--95-fn95.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0459477 s, 228 MB/s
+--94-fn94.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0462799 s, 227 MB/s
+--93-fn93.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0473282 s, 222 MB/s
+--92-fn92.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0486959 s, 215 MB/s
+--91-fn91.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0465478 s, 225 MB/s
+--90-fn90.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0462654 s, 227 MB/s
+--89-fn89.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0487023 s, 215 MB/s
+--88-fn88.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0532352 s, 197 MB/s
+--87-fn87.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.059699 s, 176 MB/s
+--86-fn86.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0354839 s, 296 MB/s
+--85-fn85.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.036495 s, 287 MB/s
+--84-fn84.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0394932 s, 266 MB/s
+--83-fn83.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0419208 s, 250 MB/s
+--82-fn82.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0448768 s, 234 MB/s
+--81-fn81.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.047361 s, 221 MB/s
+--80-fn80.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0463672 s, 226 MB/s
+--79-fn79.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0477681 s, 220 MB/s
+--78-fn78.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0452048 s, 232 MB/s
+--77-fn77.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0496186 s, 211 MB/s
+--76-fn76.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0469297 s, 223 MB/s
+--75-fn75.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0449609 s, 233 MB/s
+--74-fn74.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0464718 s, 226 MB/s
+--73-fn73.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0465412 s, 225 MB/s
+--72-fn72.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0477358 s, 220 MB/s
+--71-fn71.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0455267 s, 230 MB/s
+--70-fn70.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0483769 s, 217 MB/s
+--69-fn69.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0442776 s, 237 MB/s
+--68-fn68.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0507748 s, 207 MB/s
+--67-fn67.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0511885 s, 205 MB/s
+--66-fn66.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0567015 s, 185 MB/s
+--65-fn65.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0397457 s, 264 MB/s
+--64-fn64.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0583299 s, 180 MB/s
+--63-fn63.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0470074 s, 223 MB/s
+--62-fn62.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0472521 s, 222 MB/s
+--61-fn61.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0468547 s, 224 MB/s
+--60-fn60.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0393817 s, 266 MB/s
+--59-fn59.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.058604 s, 179 MB/s
+--58-fn58.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0470722 s, 223 MB/s
+--57-fn57.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.039366 s, 266 MB/s
+--56-fn56.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0482845 s, 217 MB/s
+--55-fn55.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0510218 s, 206 MB/s
+--54-fn54.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0579715 s, 181 MB/s
+--53-fn53.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0474682 s, 221 MB/s
+--52-fn52.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411678 s, 255 MB/s
+--51-fn51.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0418951 s, 250 MB/s
+--50-fn50.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0400711 s, 262 MB/s
+--49-fn49.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0570682 s, 184 MB/s
+--48-fn48.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0530457 s, 198 MB/s
+--47-fn47.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0530172 s, 198 MB/s
+--46-fn46.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0287111 s, 365 MB/s
+--45-fn45.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0454924 s, 230 MB/s
+--44-fn44.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0477766 s, 219 MB/s
+--43-fn43.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0391496 s, 268 MB/s
+--42-fn42.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0407233 s, 257 MB/s
+--41-fn41.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0419541 s, 250 MB/s
+--40-fn40.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0537182 s, 195 MB/s
+--39-fn39.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.10651 s, 98.4 MB/s
+--38-fn38.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0432407 s, 242 MB/s
+--37-fn37.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.030922 s, 339 MB/s
+--36-fn36.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0381781 s, 275 MB/s
+--35-fn35.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0368958 s, 284 MB/s
+--34-fn34.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0384171 s, 273 MB/s
+--33-fn33.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0381169 s, 275 MB/s
+--32-fn32.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0388767 s, 270 MB/s
+--31-fn31.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0492553 s, 213 MB/s
+--30-fn30.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0417693 s, 251 MB/s
+--29-fn29.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0413274 s, 254 MB/s
+--28-fn28.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0407377 s, 257 MB/s
+--27-fn27.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.041609 s, 252 MB/s
+--26-fn26.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0420139 s, 250 MB/s
+--25-fn25.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.040822 s, 257 MB/s
+--24-fn24.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0412494 s, 254 MB/s
+--23-fn23.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0589154 s, 178 MB/s
+--22-fn22.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0411002 s, 255 MB/s
+--21-fn21.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0511563 s, 205 MB/s
+--20-fn20.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0487918 s, 215 MB/s
+--19-fn19.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0528799 s, 198 MB/s
+--18-fn18.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0983552 s, 107 MB/s
+--17-fn17.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0504159 s, 208 MB/s
+--16-fn16.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0437086 s, 240 MB/s
+--15-fn15.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0413152 s, 254 MB/s
+--14-fn14.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0386339 s, 271 MB/s
+--13-fn13.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0798518 s, 131 MB/s
+--12-fn12.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0401357 s, 261 MB/s
+--11-fn11.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0330626 s, 317 MB/s
+--10-fn10.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0410589 s, 255 MB/s
+--9-fn9.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0687074 s, 153 MB/s
+--8-fn8.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0412918 s, 254 MB/s
+--7-fn7.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0408534 s, 257 MB/s
+--6-fn6.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0401521 s, 261 MB/s
+--5-fn5.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0529467 s, 198 MB/s
+--4-fn4.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0391479 s, 268 MB/s
+--3-fn3.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0379707 s, 276 MB/s
+--2-fn2.txt--
+10240+0 records in
+10240+0 records out
+10485760 bytes (10 MB) copied, 0.0294342 s, 356 MB/s
+--1-fn1.txt--
+start=Mon Aug 20 15:42:27 UTC 2018
+end=Mon Aug 20 15:43:32 UTC 2018
