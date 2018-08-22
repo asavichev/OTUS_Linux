@@ -1,6 +1,12 @@
 #!/bin/bash
 
 COUNT=1000
+# SIGHUP   1 Hang up detected on controlling terminal or death of controlling process
+# SIGINT   2 Issued if the user sends an interrupt signal (Ctrl + C).
+# SIGQUIT  3 Issued if the user sends a quit signal (Ctrl + D).
+# SIGTERM 15 Software termination signal (sent by kill by default).
+
+trap 'echo "Process Exit... "; exit 1;' 1 2 3 15
 
 echo "Генерация ${COUNT} файлов."
 dstart=`date`

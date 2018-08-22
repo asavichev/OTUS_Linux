@@ -1,13 +1,28 @@
 #!/bin/bash
 cpwd=`pwd`
 
+# SIGHUP   1 Hang up detected on controlling terminal or death of controlling process
+# SIGINT   2 Issued if the user sends an interrupt signal (Ctrl + C).
+# SIGQUIT  3 Issued if the user sends a quit signal (Ctrl + D).
+# SIGTERM 15 Software termination signal (sent by kill by default).
+
+trap 'echo "Process Exit... "; exit 1;' 1 2 3 15
+
+
+
+
+
+
 A="0";
 E="0";
 F="0";
 X="0";
 
+
 declare -a GROUP;
 declare -a USERS;
+
+declare -a dim_tmp;
 
 add_group_record(){
 GROUP[$1]=$2
@@ -18,10 +33,10 @@ add_user_record(){
 USERS[$1]=$2
 }
 
+
 init(){
 
 while read line; do
-# echo ">$line<"
 
 ID=`echo "$line"  | cut -d: -f3 -`
 NAME=`echo "$line" | cut -d: -f1 -`
@@ -41,7 +56,7 @@ done < /etc/passwd
 init
 
 # exit 0 ;
-
+# Обработка параметров/ключей
 for it in $* ; do
  # echo ">> $it";
  for (( i=0 ; i < ${#it} ; i++ )) ; do
@@ -59,10 +74,6 @@ for it in $* ; do
  done
 done
 
-echo "E=$E";
-echo "F=$F";
-
-# exit 0;
 
 myPID=$$
 
@@ -72,42 +83,32 @@ cd /proc
 
 PROC=`ls |egrep  "^[0-9]+$" `
 
-if [[ "${E}" == "1" || "${A}" == "1" ]] ; then
+_FORMAT_="%-20s %8s %8s\n"
 
- for it in ${PROC[@]} ; do
+echo "COMMAND PID USER FD TYPE DEVICE SIZE/OFF NODE NAME" | awk '{ printf( "%-20s %8s %8s %3s %4s %6s %8s %10s %-20s\n" , $1, $2, $3, $4, $5, $6, $7, $8, $9);}'
+
+
+for it in ${PROC[@]} ; do
+
   if [ -e /proc/$it/status ] ; then
-   GUID=`cat /proc/$it/status | grep "Gid:" |awk '{print $2;}'`
-   ST=`cat /proc/$it/status | grep "State:" |awk '{print $2;}'`
-   if [ "${X}" == "1" ] ; then
-    NAME=`cat /proc/$it/cmdline | tr "\0" " "`
-   else
-    NAME=`cat /proc/$it/status | grep "Name:" |awk '{print $2;}'`
-   fi
-   TTY=`cat /proc/$it/environ | tr "\0" "\n" |grep TTY | cut -d= -f2 -| sed  's!\/dev\/!\/!g'`
-   # GUID=`cat /proc/$it/status | grep "Gid:"`
-   echo "${it} ${TTY:-"?"} ${ST} ${GROUP[$GUID]} ${NAME}" | awk '{printf("%s \t%s \t%s \t%s \t%s\n", $1, $2, $3, $4, $5);}'
+ 
+   NAME=`cat /proc/$it/status | grep "Name:" |awk '{print $2;}'`
+   Uid=`cat /proc/$it/status | grep "Uid:" |awk '{print $2;}' `
+   while read -a dim_tmp ; do
+
+     if [[ ${#dim_tmp[*]} -eq 6 ]] ; then
+#       echo ">${#dim_tmp[*]}<"
+       Fd="-"
+       Type="-"
+       Dev=${dim_tmp[3]}
+       SizeOff="-"
+       Node=${dim_tmp[4]}
+       Name=${dim_tmp[5]}
+       echo "${NAME} ${it} ${USERS[$Uid]} ${Fd} ${Type} ${Dev} ${SizeOff} ${Node} ${Name}" | awk '{printf("%-20s %8s %8s %3s %4s %6s %8s %10s %20s\n", $1, $2, $3, $4, $5, $6, $7 , $8, $9);}'
+     fi
+   done < /proc/$it/maps
+
   fi
- done
-
-else
-
-P=$$
-# echo "--${P}"
-
-while [[ "$P" != "1" ]] ; do
-  GUID=`cat /proc/${P}/status | grep "Gid:" |awk '{print $2;}'`
-  NAME=`cat /proc/${P}/status | grep "Name:" |awk '{print $2;}'`
-  TTY=`cat /proc/${P}/environ | tr "\0" "\n" |grep TTY | cut -d= -f2 -| sed  's!\/dev\/!\/!g'`
-  PP=`cat /proc/${P}/status | grep "PPid:" |awk '{print $2;}'`
-  # echo "-->$PP"
-  echo "${P} ${PP} ${TTY:-"-"} ${GROUP[$GUID]} ${NAME}" | awk '{printf("pid=%s \tppid=%s \t%s \t%s \t%s\n", $1, $2, $3, $4, $5);}'
-  P=${PP}
 done
 
-fi
-
-# echo "$PROC"
-# echo "PID=${myPID}..."
-# "cmdline"
-# "status"
 cd $cpwd

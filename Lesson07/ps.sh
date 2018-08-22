@@ -1,5 +1,11 @@
 #!/bin/bash
 cpwd=`pwd`
+# SIGHUP   1 Hang up detected on controlling terminal or death of controlling process
+# SIGINT   2 Issued if the user sends an interrupt signal (Ctrl + C).
+# SIGQUIT  3 Issued if the user sends a quit signal (Ctrl + D).
+# SIGTERM 15 Software termination signal (sent by kill by default).
+
+trap 'echo "Process Exit... "; exit 1;' 1 2 3 15
 
 A="0";
 E="0";
@@ -106,8 +112,4 @@ done
 
 fi
 
-# echo "$PROC"
-# echo "PID=${myPID}..."
-# "cmdline"
-# "status"
 cd $cpwd
