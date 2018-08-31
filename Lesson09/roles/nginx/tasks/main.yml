@@ -1,0 +1,22 @@
+---
+# tasks file for nginx
+
+- name: Installing nginx server
+  yum: name=nginx
+
+- name: Start and enable nginx
+  systemd: 
+    name: nginx
+    enabled: yes
+    state: started
+  
+- name: Sets Port 8080 ip4
+  lineinfile: dest=/etc/nginx/nginx.conf regexp="listen       80 default_server;"    line="        listen       {{nginx_port}} default_server;"
+  notify:
+    - restart nginx
+
+- name: Sets Port 8080 ip6
+  lineinfile: dest=/etc/nginx/nginx.conf regexp="listen       \[::\]:80 default_server;"    line="        listen       [::]:{{nginx_port}} default_server;"
+  notify:
+    - restart nginx
+

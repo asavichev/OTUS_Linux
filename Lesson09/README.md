@@ -1,25 +1,24 @@
-[root@otuslinux ~]# ansible-playbook nginx.yml
+[root@otuslinux ansible]# ansible-playbook nginx.yml
 
-PLAY [all] *********************************************************************************************
+PLAY [all] *********************************************************************
 
-TASK [Gathering Facts] *********************************************************************************
-ok: [127.0.0.1]
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
 
-TASK [nginx : Installing nginx server] *****************************************************************
-ok: [127.0.0.1]
+TASK [nginx : Installing nginx server] *****************************************
+changed: [localhost]
 
-TASK [nginx : Start and enable nginx] ******************************************************************
-ok: [127.0.0.1]
+TASK [nginx : Start and enable nginx] ******************************************
+changed: [localhost]
 
-TASK [nginx : Sets Port 8080 ip4] **********************************************************************
-changed: [127.0.0.1]
+TASK [nginx : Sets Port 8080 ip4] **********************************************
+changed: [localhost]
 
-TASK [nginx : Sets Port 8080 ip6] **********************************************************************
-changed: [127.0.0.1]
+TASK [nginx : Sets Port 8080 ip6] **********************************************
+changed: [localhost]
 
-RUNNING HANDLER [nginx : restart nginx] ****************************************************************
-changed: [127.0.0.1]
+RUNNING HANDLER [nginx : restart nginx] ****************************************
+changed: [localhost]
 
-PLAY RECAP *********************************************************************************************
-127.0.0.1                  : ok=6    changed=3    unreachable=0    failed=0
-
+PLAY RECAP *********************************************************************
+localhost                  : ok=6    changed=5    unreachable=0    failed=0
