@@ -22,14 +22,5 @@ OPTIONS="-f /etc/httpd/conf/httpd1.conf"
 # case-sensitive string comparisons are performed in a different
 # locale.)
 #
-LANG=C
-HTTPD_ROOT="/etc/httpd"
-#HTTPD_CONF_DIR=/etc/httpd/conf
 PIDLOG=/run/httpd/httpd1.pid
 APACHE_PID_FILE=/run/httpd/httpd1.pid
-ERRORLOG="logs/error_log1
-
-#DEFAULT_PIDLOG=/run/httpd/httpd1.pid
-#DEFAULT_ERRORLOG="logs/error_log1
-#DEFAULT_SCOREBOARD="logs/apache_runtime_status1"
-
