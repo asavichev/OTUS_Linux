@@ -1,0 +1,59 @@
+#!/bin/bash
+LOG=/tmp/pam-script.log
+echo "script `date` ..." >> $LOG
+echo "Login user: ${PAM_USER}" >> $LOG
+# set >> $LOG
+declare GROUP;
+
+get_gr(){
+# echo "--> $1" >> $LOG
+GROUP=`echo $1 | cut -d'(' -f2 -| cut -d')' -f1 -`
+# echo "--> $GROUP" >> $LOG
+}
+
+Group=`id ${PAM_USER}|cut -d " " -f 2 -`
+Group=`echo $Group | cut -d= -f2 -`
+Groups=`id ${PAM_USER}|cut -d " " -f 3 -`
+Groups=`echo $Groups | cut -d= -f2 -`
+
+ADM="N"
+IFS_OLD=$IFS
+IFS=','
+for it in ${Groups[@]} ; do
+get_gr $it
+echo "-->a$GROUP<--" >> $LOG
+
+if [ "a$GROUP" == "aadmin" ] ; then
+ADM="Y"
+exit 0;
+# break;
+fi
+done
+$IFS=$IFS_OLD
+
+echo "Group=${Group} Groups=${Groups}" >> $LOG
+
+# get_gr $Groupe
+D=`date "+%u"`
+echo "-- $D" >> $LOG
+
+# case "$D" in
+# "6" ) D="Y"
+# ;;
+# "7" ) D="Y"
+# ;;
+# esac
+
+if [[ $D > 5 ]] ; then
+exit 1
+fi
+
+D=`date "+%m%d"`
+echo "-->$D" >> $LOG
+ # праздники
+if [ "x`grep $D  /vagrant/holidays`" != "x"  ] ; then
+  echo ">>> $ADM D=$D" >> $LOG
+  exit 1;
+fi
+
+exit 0;
