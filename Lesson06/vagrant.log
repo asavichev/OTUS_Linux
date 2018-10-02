@@ -1,0 +1,477 @@
+Bringing machine 'otuslinux' up with 'virtualbox' provider...
+==> otuslinux: Importing base box 'centos/7'...
+[KProgress: 20%[KProgress: 40%[KProgress: 90%[K==> otuslinux: Matching MAC address for NAT networking...
+==> otuslinux: Checking if box 'centos/7' is up to date...
+==> otuslinux: Setting the name of the VM: Lesson06_otuslinux_1538478705472_91718
+==> otuslinux: Clearing any previously set network interfaces...
+==> otuslinux: Preparing network interfaces based on configuration...
+    otuslinux: Adapter 1: nat
+    otuslinux: Adapter 2: bridged
+==> otuslinux: Forwarding ports...
+    otuslinux: 22 (guest) => 2222 (host) (adapter 1)
+==> otuslinux: Running 'pre-boot' VM customizations...
+==> otuslinux: Booting VM...
+==> otuslinux: Waiting for machine to boot. This may take a few minutes...
+    otuslinux: SSH address: 127.0.0.1:2222
+    otuslinux: SSH username: vagrant
+    otuslinux: SSH auth method: private key
+    otuslinux: Warning: Connection reset. Retrying...
+    otuslinux: Warning: Connection aborted. Retrying...
+    otuslinux: 
+    otuslinux: Vagrant insecure key detected. Vagrant will automatically replace
+    otuslinux: this with a newly generated keypair for better security.
+    otuslinux: 
+    otuslinux: Inserting generated public key within guest...
+    otuslinux: Removing insecure key from the guest if it's present...
+    otuslinux: Key inserted! Disconnecting and reconnecting using new SSH key...
+==> otuslinux: Machine booted and ready!
+==> otuslinux: Checking for guest additions in VM...
+    otuslinux: No guest additions were detected on the base box for this VM! Guest
+    otuslinux: additions are required for forwarded ports, shared folders, host only
+    otuslinux: networking, and more. If SSH fails on this machine, please install
+    otuslinux: the guest additions and repackage the box to continue.
+    otuslinux: 
+    otuslinux: This is not an error message; everything may continue to work properly,
+    otuslinux: in which case you may ignore this message.
+==> otuslinux: Setting hostname...
+==> otuslinux: Configuring and enabling network interfaces...
+    otuslinux: SSH address: 127.0.0.1:2222
+    otuslinux: SSH username: vagrant
+    otuslinux: SSH auth method: private key
+==> otuslinux: Rsyncing folder: /cygdrive/c/VirtualBox/Lesson06/ => /vagrant
+==> otuslinux: Running provisioner: shell...
+    otuslinux: Running: inline script
+==> otuslinux: Running provisioner: shell...
+    otuslinux: Running: C:/Users/asavic/AppData/Local/Temp/vagrant-shell20181002-4848-16whvk2.sh
+==> otuslinux: Unknown operation 'disabled'.
+==> otuslinux: New password: 
+==> otuslinux: BAD PASSWORD: The password fails the dictionary check - it is based on a dictionary word
+==> otuslinux: Retype new password: 
+==> otuslinux: Changing password for user root.
+==> otuslinux: passwd: all authentication tokens updated successfully.
+==> otuslinux: Loaded plugins: fastestmirror
+==> otuslinux: Determining fastest mirrors
+==> otuslinux:  * base: mirror.sale-dedic.com
+==> otuslinux:  * extras: mirror.reconn.ru
+==> otuslinux:  * updates: mirror.logol.ru
+==> otuslinux: Resolving Dependencies
+==> otuslinux: --> Running transaction check
+==> otuslinux: ---> Package epel-release.noarch 0:7-11 will be installed
+==> otuslinux: --> Finished Dependency Resolution
+==> otuslinux: 
+==> otuslinux: Dependencies Resolved
+==> otuslinux: 
+==> otuslinux: ================================================================================
+==> otuslinux:  Package                Arch             Version         Repository        Size
+==> otuslinux: ================================================================================
+==> otuslinux: Installing:
+==> otuslinux:  epel-release           noarch           7-11            extras            15 k
+==> otuslinux: 
+==> otuslinux: Transaction Summary
+==> otuslinux: ================================================================================
+==> otuslinux: Install  1 Package
+==> otuslinux: 
+==> otuslinux: Total download size: 15 k
+==> otuslinux: Installed size: 24 k
+==> otuslinux: Downloading packages:
+==> otuslinux: Public key for epel-release-7-11.noarch.rpm is not installed
+==> otuslinux: warning: /var/cache/yum/x86_64/7/extras/packages/epel-release-7-11.noarch.rpm: Header V3 RSA/SHA256 Signature, key ID f4a80eb5: NOKEY
+==> otuslinux: Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+==> otuslinux: Importing GPG key 0xF4A80EB5:
+==> otuslinux:  Userid     : "CentOS-7 Key (CentOS 7 Official Signing Key) <security@centos.org>"
+==> otuslinux:  Fingerprint: 6341 ab27 53d7 8a78 a7c2 7bb1 24c6 a8a7 f4a8 0eb5
+==> otuslinux:  Package    : centos-release-7-5.1804.el7.centos.x86_64 (@anaconda)
+==> otuslinux:  From       : /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+==> otuslinux: Running transaction check
+==> otuslinux: Running transaction test
+==> otuslinux: Transaction test succeeded
+==> otuslinux: Running transaction
+==> otuslinux:   Installing : epel-release-7-11.noarch                                     1/1
+==> otuslinux:  
+==> otuslinux:   Verifying  : epel-release-7-11.noarch                                     1/1
+==> otuslinux:  
+==> otuslinux: 
+==> otuslinux: Installed:
+==> otuslinux:   epel-release.noarch 0:7-11                                                    
+==> otuslinux: 
+==> otuslinux: Complete!
+==> otuslinux: Loaded plugins: fastestmirror
+==> otuslinux: Loading mirror speeds from cached hostfile
+==> otuslinux:  * base: mirror.sale-dedic.com
+==> otuslinux:  * epel: mirror.logol.ru
+==> otuslinux:  * extras: mirror.reconn.ru
+==> otuslinux:  * updates: mirror.logol.ru
+==> otuslinux: Resolving Dependencies
+==> otuslinux: --> Running transaction check
+==> otuslinux: ---> Package httpd.x86_64 0:2.4.6-80.el7.centos.1 will be installed
+==> otuslinux: --> Processing Dependency: httpd-tools = 2.4.6-80.el7.centos.1 for package: httpd-2.4.6-80.el7.centos.1.x86_64
+==> otuslinux: --> Processing Dependency: /etc/mime.types for package: httpd-2.4.6-80.el7.centos.1.x86_64
+==> otuslinux: --> Processing Dependency: libaprutil-1.so.0()(64bit) for package: httpd-2.4.6-80.el7.centos.1.x86_64
+==> otuslinux: --> Processing Dependency: libapr-1.so.0()(64bit) for package: httpd-2.4.6-80.el7.centos.1.x86_64
+==> otuslinux: ---> Package mc.x86_64 1:4.8.7-11.el7 will be installed
+==> otuslinux: --> Processing Dependency: perl(strict) for package: 1:mc-4.8.7-11.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(bytes) for package: 1:mc-4.8.7-11.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(POSIX) for package: 1:mc-4.8.7-11.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(File::Temp) for package: 1:mc-4.8.7-11.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(File::Basename) for package: 1:mc-4.8.7-11.el7.x86_64
+==> otuslinux: --> Processing Dependency: /usr/bin/perl for package: 1:mc-4.8.7-11.el7.x86_64
+==> otuslinux: --> Processing Dependency: libgpm.so.2()(64bit) for package: 1:mc-4.8.7-11.el7.x86_64
+==> otuslinux: ---> Package mod_fcgid.x86_64 0:2.3.9-4.el7_4.1 will be installed
+==> otuslinux: ---> Package php.x86_64 0:5.4.16-45.el7 will be installed
+==> otuslinux: --> Processing Dependency: php-common(x86-64) = 5.4.16-45.el7 for package: php-5.4.16-45.el7.x86_64
+==> otuslinux: ---> Package php-cli.x86_64 0:5.4.16-45.el7 will be installed
+==> otuslinux: ---> Package spawn-fcgi.x86_64 0:1.6.3-5.el7 will be installed
+==> otuslinux: ---> Package wget.x86_64 0:1.14-15.el7_4.1 will be installed
+==> otuslinux: --> Running transaction check
+==> otuslinux: ---> Package apr.x86_64 0:1.4.8-3.el7_4.1 will be installed
+==> otuslinux: ---> Package apr-util.x86_64 0:1.5.2-6.el7 will be installed
+==> otuslinux: ---> Package gpm-libs.x86_64 0:1.20.7-5.el7 will be installed
+==> otuslinux: ---> Package httpd-tools.x86_64 0:2.4.6-80.el7.centos.1 will be installed
+==> otuslinux: ---> Package mailcap.noarch 0:2.1.41-2.el7 will be installed
+==> otuslinux: ---> Package perl.x86_64 4:5.16.3-292.el7 will be installed
+==> otuslinux: --> Processing Dependency: perl-libs = 4:5.16.3-292.el7 for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(Socket) >= 1.3 for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(Scalar::Util) >= 1.10 for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl-macros for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl-libs for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(threads::shared) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(threads) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(constant) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(Time::Local) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(Time::HiRes) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(Storable) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(Socket) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(Scalar::Util) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(Pod::Simple::XHTML) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(Pod::Simple::Search) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(Getopt::Long) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(Filter::Util::Call) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(File::Spec::Unix) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(File::Spec::Functions) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(File::Spec) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(File::Path) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(Exporter) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(Cwd) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: perl(Carp) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: --> Processing Dependency: libperl.so()(64bit) for package: 4:perl-5.16.3-292.el7.x86_64
+==> otuslinux: ---> Package perl-File-Temp.noarch 0:0.23.01-3.el7 will be installed
+==> otuslinux: ---> Package php-common.x86_64 0:5.4.16-45.el7 will be installed
+==> otuslinux: --> Processing Dependency: libzip.so.2()(64bit) for package: php-common-5.4.16-45.el7.x86_64
+==> otuslinux: --> Running transaction check
+==> otuslinux: ---> Package libzip.x86_64 0:0.10.1-8.el7 will be installed
+==> otuslinux: ---> Package perl-Carp.noarch 0:1.26-244.el7 will be installed
+==> otuslinux: ---> Package perl-Exporter.noarch 0:5.68-3.el7 will be installed
+==> otuslinux: ---> Package perl-File-Path.noarch 0:2.09-2.el7 will be installed
+==> otuslinux: ---> Package perl-Filter.x86_64 0:1.49-3.el7 will be installed
+==> otuslinux: ---> Package perl-Getopt-Long.noarch 0:2.40-3.el7 will be installed
+==> otuslinux: --> Processing Dependency: perl(Pod::Usage) >= 1.14 for package: perl-Getopt-Long-2.40-3.el7.noarch
+==> otuslinux: --> Processing Dependency: perl(Text::ParseWords) for package: perl-Getopt-Long-2.40-3.el7.noarch
+==> otuslinux: ---> Package perl-PathTools.x86_64 0:3.40-5.el7 will be installed
+==> otuslinux: ---> Package perl-Pod-Simple.noarch 1:3.28-4.el7 will be installed
+==> otuslinux: --> Processing Dependency: perl(Pod::Escapes) >= 1.04 for package: 1:perl-Pod-Simple-3.28-4.el7.noarch
+==> otuslinux: --> Processing Dependency: perl(Encode) for package: 1:perl-Pod-Simple-3.28-4.el7.noarch
+==> otuslinux: ---> Package perl-Scalar-List-Utils.x86_64 0:1.27-248.el7 will be installed
+==> otuslinux: ---> Package perl-Socket.x86_64 0:2.010-4.el7 will be installed
+==> otuslinux: ---> Package perl-Storable.x86_64 0:2.45-3.el7 will be installed
+==> otuslinux: ---> Package perl-Time-HiRes.x86_64 4:1.9725-3.el7 will be installed
+==> otuslinux: ---> Package perl-Time-Local.noarch 0:1.2300-2.el7 will be installed
+==> otuslinux: ---> Package perl-constant.noarch 0:1.27-2.el7 will be installed
+==> otuslinux: ---> Package perl-libs.x86_64 4:5.16.3-292.el7 will be installed
+==> otuslinux: ---> Package perl-macros.x86_64 4:5.16.3-292.el7 will be installed
+==> otuslinux: ---> Package perl-threads.x86_64 0:1.87-4.el7 will be installed
+==> otuslinux: ---> Package perl-threads-shared.x86_64 0:1.43-6.el7 will be installed
+==> otuslinux: --> Running transaction check
+==> otuslinux: ---> Package perl-Encode.x86_64 0:2.51-7.el7 will be installed
+==> otuslinux: ---> Package perl-Pod-Escapes.noarch 1:1.04-292.el7 will be installed
+==> otuslinux: ---> Package perl-Pod-Usage.noarch 0:1.63-3.el7 will be installed
+==> otuslinux: --> Processing Dependency: perl(Pod::Text) >= 3.15 for package: perl-Pod-Usage-1.63-3.el7.noarch
+==> otuslinux: --> Processing Dependency: perl-Pod-Perldoc for package: perl-Pod-Usage-1.63-3.el7.noarch
+==> otuslinux: ---> Package perl-Text-ParseWords.noarch 0:3.29-4.el7 will be installed
+==> otuslinux: --> Running transaction check
+==> otuslinux: ---> Package perl-Pod-Perldoc.noarch 0:3.20-4.el7 will be installed
+==> otuslinux: --> Processing Dependency: perl(parent) for package: perl-Pod-Perldoc-3.20-4.el7.noarch
+==> otuslinux: --> Processing Dependency: perl(HTTP::Tiny) for package: perl-Pod-Perldoc-3.20-4.el7.noarch
+==> otuslinux: ---> Package perl-podlators.noarch 0:2.5.1-3.el7 will be installed
+==> otuslinux: --> Running transaction check
+==> otuslinux: ---> Package perl-HTTP-Tiny.noarch 0:0.033-3.el7 will be installed
+==> otuslinux: ---> Package perl-parent.noarch 1:0.225-244.el7 will be installed
+==> otuslinux: --> Finished Dependency Resolution
+==> otuslinux: 
+==> otuslinux: Dependencies Resolved
+==> otuslinux: 
+==> otuslinux: ================================================================================
+==> otuslinux:  Package                   Arch      Version                   Repository  Size
+==> otuslinux: ================================================================================
+==> otuslinux: Installing:
+==> otuslinux:  httpd                     x86_64    2.4.6-80.el7.centos.1     updates    2.7 M
+==> otuslinux:  mc                        x86_64    1:4.8.7-11.el7            base       1.7 M
+==> otuslinux:  mod_fcgid                 x86_64    2.3.9-4.el7_4.1           base        79 k
+==> otuslinux:  php                       x86_64    5.4.16-45.el7             base       1.4 M
+==> otuslinux:  php-cli                   x86_64    5.4.16-45.el7             base       2.7 M
+==> otuslinux:  spawn-fcgi                x86_64    1.6.3-5.el7               epel        18 k
+==> otuslinux:  wget                      x86_64    1.14-15.el7_4.1           base       547 k
+==> otuslinux: Installing for dependencies:
+==> otuslinux:  apr                       x86_64    1.4.8-3.el7_4.1           base       103 k
+==> otuslinux:  apr-util                  x86_64    1.5.2-6.el7               base        92 k
+==> otuslinux:  gpm-libs                  x86_64    1.20.7-5.el7              base        32 k
+==> otuslinux:  httpd-tools               x86_64    2.4.6-80.el7.centos.1     updates     90 k
+==> otuslinux:  libzip                    x86_64    0.10.1-8.el7              base        48 k
+==> otuslinux:  mailcap                   noarch    2.1.41-2.el7              base        31 k
+==> otuslinux:  perl                      x86_64    4:5.16.3-292.el7          base       8.0 M
+==> otuslinux:  perl-Carp                 noarch    1.26-244.el7              base        19 k
+==> otuslinux:  perl-Encode               x86_64    2.51-7.el7                base       1.5 M
+==> otuslinux:  perl-Exporter             noarch    5.68-3.el7                base        28 k
+==> otuslinux:  perl-File-Path            noarch    2.09-2.el7                base        26 k
+==> otuslinux:  perl-File-Temp            noarch    0.23.01-3.el7             base        56 k
+==> otuslinux:  perl-Filter               x86_64    1.49-3.el7                base        76 k
+==> otuslinux:  perl-Getopt-Long          noarch    2.40-3.el7                base        56 k
+==> otuslinux:  perl-HTTP-Tiny            noarch    0.033-3.el7               base        38 k
+==> otuslinux:  perl-PathTools            x86_64    3.40-5.el7                base        82 k
+==> otuslinux:  perl-Pod-Escapes          noarch    1:1.04-292.el7            base        51 k
+==> otuslinux:  perl-Pod-Perldoc          noarch    3.20-4.el7                base        87 k
+==> otuslinux:  perl-Pod-Simple           noarch    1:3.28-4.el7              base       216 k
+==> otuslinux:  perl-Pod-Usage            noarch    1.63-3.el7                base        27 k
+==> otuslinux:  perl-Scalar-List-Utils    x86_64    1.27-248.el7              base        36 k
+==> otuslinux:  perl-Socket               x86_64    2.010-4.el7               base        49 k
+==> otuslinux:  perl-Storable             x86_64    2.45-3.el7                base        77 k
+==> otuslinux:  perl-Text-ParseWords      noarch    3.29-4.el7                base        14 k
+==> otuslinux:  perl-Time-HiRes           x86_64    4:1.9725-3.el7            base        45 k
+==> otuslinux:  perl-Time-Local           noarch    1.2300-2.el7              base        24 k
+==> otuslinux:  perl-constant             noarch    1.27-2.el7                base        19 k
+==> otuslinux:  perl-libs                 x86_64    4:5.16.3-292.el7          base       688 k
+==> otuslinux:  perl-macros               x86_64    4:5.16.3-292.el7          base        43 k
+==> otuslinux:  perl-parent               noarch    1:0.225-244.el7           base        12 k
+==> otuslinux:  perl-podlators            noarch    2.5.1-3.el7               base       112 k
+==> otuslinux:  perl-threads              x86_64    1.87-4.el7                base        49 k
+==> otuslinux:  perl-threads-shared       x86_64    1.43-6.el7                base        39 k
+==> otuslinux:  php-common                x86_64    5.4.16-45.el7             base       565 k
+==> otuslinux: 
+==> otuslinux: Transaction Summary
+==> otuslinux: ================================================================================
+==> otuslinux: Install  7 Packages (+34 Dependent packages)
+==> otuslinux: 
+==> otuslinux: Total download size: 21 M
+==> otuslinux: Installed size: 71 M
+==> otuslinux: Downloading packages:
+==> otuslinux: Public key for spawn-fcgi-1.6.3-5.el7.x86_64.rpm is not installed
+==> otuslinux: warning: /var/cache/yum/x86_64/7/epel/packages/spawn-fcgi-1.6.3-5.el7.x86_64.rpm: Header V3 RSA/SHA256 Signature, key ID 352c64e5: NOKEY
+==> otuslinux: --------------------------------------------------------------------------------
+==> otuslinux: Total                                               11 MB/s |  21 MB  00:01     
+==> otuslinux: Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+==> otuslinux: Importing GPG key 0x352C64E5:
+==> otuslinux:  Userid     : "Fedora EPEL (7) <epel@fedoraproject.org>"
+==> otuslinux:  Fingerprint: 91e9 7d7c 4a5e 96f1 7f3e 888f 6a2f aea2 352c 64e5
+==> otuslinux:  Package    : epel-release-7-11.noarch (@extras)
+==> otuslinux:  From       : /etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+==> otuslinux: Running transaction check
+==> otuslinux: Running transaction test
+==> otuslinux: Transaction test succeeded
+==> otuslinux: Running transaction
+==> otuslinux:   Installing : apr-1.4.8-3.el7_4.1.x86_64                                  1/41
+==> otuslinux:  
+==> otuslinux:   Installing : apr-util-1.5.2-6.el7.x86_64                                 2/41
+==> otuslinux:  
+==> otuslinux:   Installing : httpd-tools-2.4.6-80.el7.centos.1.x86_64                    3/41
+==> otuslinux:  
+==> otuslinux:   Installing : 1:perl-parent-0.225-244.el7.noarch                          4/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-HTTP-Tiny-0.033-3.el7.noarch                           5/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-podlators-2.5.1-3.el7.noarch                           6/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-Pod-Perldoc-3.20-4.el7.noarch                          7/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-Text-ParseWords-3.29-4.el7.noarch                      8/41
+==> otuslinux:  
+==> otuslinux:   Installing : 1:perl-Pod-Escapes-1.04-292.el7.noarch                      9/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-Encode-2.51-7.el7.x86_64                              10/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-Pod-Usage-1.63-3.el7.noarch                           11/41
+==> otuslinux:  
+==> otuslinux:   Installing : 4:perl-macros-5.16.3-292.el7.x86_64                        12/41
+==> otuslinux:  
+==> otuslinux:   Installing : 4:perl-libs-5.16.3-292.el7.x86_64                          13/41
+==> otuslinux:  
+==> otuslinux:   Installing : 4:perl-Time-HiRes-1.9725-3.el7.x86_64                      14/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-Exporter-5.68-3.el7.noarch                            15/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-constant-1.27-2.el7.noarch                            16/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-Time-Local-1.2300-2.el7.noarch                        17/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-Socket-2.010-4.el7.x86_64                             18/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-Carp-1.26-244.el7.noarch                              19/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-Storable-2.45-3.el7.x86_64                            20/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-PathTools-3.40-5.el7.x86_64                           21/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-Scalar-List-Utils-1.27-248.el7.x86_64                 22/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-File-Temp-0.23.01-3.el7.noarch                        23/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-File-Path-2.09-2.el7.noarch                           24/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-threads-shared-1.43-6.el7.x86_64                      25/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-threads-1.87-4.el7.x86_64                             26/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-Filter-1.49-3.el7.x86_64                              27/41
+==> otuslinux:  
+==> otuslinux:   Installing : 1:perl-Pod-Simple-3.28-4.el7.noarch                        28/41
+==> otuslinux:  
+==> otuslinux:   Installing : perl-Getopt-Long-2.40-3.el7.noarch                         29/41
+==> otuslinux:  
+==> otuslinux:   Installing : 4:perl-5.16.3-292.el7.x86_64                               30/41
+==> otuslinux:  
+==> otuslinux:   Installing : libzip-0.10.1-8.el7.x86_64                                 31/41
+==> otuslinux:  
+==> otuslinux:   Installing : php-common-5.4.16-45.el7.x86_64                            32/41
+==> otuslinux:  
+==> otuslinux:   Installing : php-cli-5.4.16-45.el7.x86_64                               33/41
+==> otuslinux:  
+==> otuslinux:   Installing : gpm-libs-1.20.7-5.el7.x86_64                               34/41
+==> otuslinux:  
+==> otuslinux:   Installing : mailcap-2.1.41-2.el7.noarch                                35/41
+==> otuslinux:  
+==> otuslinux:   Installing : httpd-2.4.6-80.el7.centos.1.x86_64                         36/41
+==> otuslinux:  
+==> otuslinux:   Installing : php-5.4.16-45.el7.x86_64                                   37/41
+==> otuslinux:  
+==> otuslinux:   Installing : mod_fcgid-2.3.9-4.el7_4.1.x86_64                           38/41
+==> otuslinux:  
+==> otuslinux:   Installing : 1:mc-4.8.7-11.el7.x86_64                                   39/41
+==> otuslinux:  
+==> otuslinux:   Installing : wget-1.14-15.el7_4.1.x86_64                                40/41
+==> otuslinux:  
+==> otuslinux:   Installing : spawn-fcgi-1.6.3-5.el7.x86_64                              41/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : 1:mc-4.8.7-11.el7.x86_64                                    1/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-HTTP-Tiny-0.033-3.el7.noarch                           2/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : spawn-fcgi-1.6.3-5.el7.x86_64                               3/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : mailcap-2.1.41-2.el7.noarch                                 4/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : httpd-tools-2.4.6-80.el7.centos.1.x86_64                    5/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-threads-shared-1.43-6.el7.x86_64                       6/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : 4:perl-Time-HiRes-1.9725-3.el7.x86_64                       7/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-Pod-Perldoc-3.20-4.el7.noarch                          8/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : httpd-2.4.6-80.el7.centos.1.x86_64                          9/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-Exporter-5.68-3.el7.noarch                            10/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-constant-1.27-2.el7.noarch                            11/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-PathTools-3.40-5.el7.x86_64                           12/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : 4:perl-macros-5.16.3-292.el7.x86_64                        13/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : 1:perl-parent-0.225-244.el7.noarch                         14/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : 4:perl-5.16.3-292.el7.x86_64                               15/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : php-5.4.16-45.el7.x86_64                                   16/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : php-cli-5.4.16-45.el7.x86_64                               17/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-File-Temp-0.23.01-3.el7.noarch                        18/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : 1:perl-Pod-Simple-3.28-4.el7.noarch                        19/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-Time-Local-1.2300-2.el7.noarch                        20/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : gpm-libs-1.20.7-5.el7.x86_64                               21/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : 4:perl-libs-5.16.3-292.el7.x86_64                          22/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-Text-ParseWords-3.29-4.el7.noarch                     23/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-Socket-2.010-4.el7.x86_64                             24/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-Encode-2.51-7.el7.x86_64                              25/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-Carp-1.26-244.el7.noarch                              26/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : wget-1.14-15.el7_4.1.x86_64                                27/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : apr-util-1.5.2-6.el7.x86_64                                28/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-Storable-2.45-3.el7.x86_64                            29/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-Scalar-List-Utils-1.27-248.el7.x86_64                 30/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : 1:perl-Pod-Escapes-1.04-292.el7.noarch                     31/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-Pod-Usage-1.63-3.el7.noarch                           32/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : apr-1.4.8-3.el7_4.1.x86_64                                 33/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : mod_fcgid-2.3.9-4.el7_4.1.x86_64                           34/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-podlators-2.5.1-3.el7.noarch                          35/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : php-common-5.4.16-45.el7.x86_64                            36/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-File-Path-2.09-2.el7.noarch                           37/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-threads-1.87-4.el7.x86_64                             38/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-Filter-1.49-3.el7.x86_64                              39/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : perl-Getopt-Long-2.40-3.el7.noarch                         40/41
+==> otuslinux:  
+==> otuslinux:   Verifying  : libzip-0.10.1-8.el7.x86_64                                 41/41
+==> otuslinux:  
+==> otuslinux: 
+==> otuslinux: Installed:
+==> otuslinux:   httpd.x86_64 0:2.4.6-80.el7.centos.1      mc.x86_64 1:4.8.7-11.el7            
+==> otuslinux:   mod_fcgid.x86_64 0:2.3.9-4.el7_4.1        php.x86_64 0:5.4.16-45.el7          
+==> otuslinux:   php-cli.x86_64 0:5.4.16-45.el7            spawn-fcgi.x86_64 0:1.6.3-5.el7     
+==> otuslinux:   wget.x86_64 0:1.14-15.el7_4.1            
+==> otuslinux: 
+==> otuslinux: Dependency Installed:
+==> otuslinux:   apr.x86_64 0:1.4.8-3.el7_4.1                                                  
+==> otuslinux:   apr-util.x86_64 0:1.5.2-6.el7                                                 
+==> otuslinux:   gpm-libs.x86_64 0:1.20.7-5.el7                                                
+==> otuslinux:   httpd-tools.x86_64 0:2.4.6-80.el7.centos.1                                    
+==> otuslinux:   libzip.x86_64 0:0.10.1-8.el7                                                  
+==> otuslinux:   mailcap.noarch 0:2.1.41-2.el7                                                 
+==> otuslinux:   perl.x86_64 4:5.16.3-292.el7                                                  
+==> otuslinux:   perl-Carp.noarch 0:1.26-244.el7                                               
+==> otuslinux:   perl-Encode.x86_64 0:2.51-7.el7                                               
+==> otuslinux:   perl-Exporter.noarch 0:5.68-3.el7                                             
+==> otuslinux:   perl-File-Path.noarch 0:2.09-2.el7                                            
+==> otuslinux:   perl-File-Temp.noarch 0:0.23.01-3.el7                                         
+==> otuslinux:   perl-Filter.x86_64 0:1.49-3.el7                                               
+==> otuslinux:   perl-Getopt-Long.noarch 0:2.40-3.el7                                          
+==> otuslinux:   perl-HTTP-Tiny.noarch 0:0.033-3.el7                                           
+==> otuslinux:   perl-PathTools.x86_64 0:3.40-5.el7                                            
+==> otuslinux:   perl-Pod-Escapes.noarch 1:1.04-292.el7                                        
+==> otuslinux:   perl-Pod-Perldoc.noarch 0:3.20-4.el7                                          
+==> otuslinux:   perl-Pod-Simple.noarch 1:3.28-4.el7                                           
+==> otuslinux:   perl-Pod-Usage.noarch 0:1.63-3.el7                                            
+==> otuslinux:   perl-Scalar-List-Utils.x86_64 0:1.27-248.el7                                  
+==> otuslinux:   perl-Socket.x86_64 0:2.010-4.el7                                              
+==> otuslinux:   perl-Storable.x86_64 0:2.45-3.el7                                             
+==> otuslinux:   perl-Text-ParseWords.noarch 0:3.29-4.el7                                      
+==> otuslinux:   perl-Time-HiRes.x86_64 4:1.9725-3.el7                                         
+==> otuslinux:   perl-Time-Local.noarch 0:1.2300-2.el7                                         
+==> otuslinux:   perl-constant.noarch 0:1.27-2.el7                                             
+==> otuslinux:   perl-libs.x86_64 4:5.16.3-292.el7                                             
+==> otuslinux:   perl-macros.x86_64 4:5.16.3-292.el7                                           
+==> otuslinux:   perl-parent.noarch 1:0.225-244.el7                                            
+==> otuslinux:   perl-podlators.noarch 0:2.5.1-3.el7                                           
+==> otuslinux:   perl-threads.x86_64 0:1.87-4.el7                                              
+==> otuslinux:   perl-threads-shared.x86_64 0:1.43-6.el7                                       
+==> otuslinux:   php-common.x86_64 0:5.4.16-45.el7                                             
+==> otuslinux: 
+==> otuslinux: Complete!

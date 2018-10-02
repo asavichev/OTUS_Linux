@@ -6,7 +6,7 @@ sed -i.gres "s/#PasswordAuthentication yes/PasswordAuthentication yes/g" /etc/ss
 sed -i.gres "s/PasswordAuthentication no/#PasswordAuthentication no/g" /etc/ssh/sshd_config
 sed -i.gres "s/SELINUX=enforcing/SELINUX=disabled/g" /etc/selinux/config
 
-echo "proxy=https://cache.fors.ru:3128" >> /etc/yum.conf
+# echo "proxy=https://cache.fors.ru:3128" >> /etc/yum.conf
 
 setenforce 0
 
@@ -16,7 +16,8 @@ systemctl disabled firewalld
 echo -e "1q2w3e4r\n1q2w3e4r\n" | passwd
 
 yum -y install epel-release
-yum -y install mc wget httpd spawn-fcgi
+
+yum -y install mc wget httpd spawn-fcgi php php-cli mod_fcgid
 
 chmod +x /vagrant/show_log.sh
 
@@ -33,7 +34,12 @@ systemctl start myscan.timer
 
 systemctl start httpd@httpd1.service
 
-# systemctl start spawn-fcgi.service
+sed -i.gres "s/#SOCKET=/SOCKET=/g" /etc/sysconfig/spawn-fcgi
+sed -i.gres "s/#OPTIONS=/OPTIONS=/g" /etc/sysconfig/spawn-fcgi
+
+systemctl enable spawn-fcgi.service
+
+systemctl start spawn-fcgi.service
 
 
 

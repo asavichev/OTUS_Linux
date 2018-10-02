@@ -2,16 +2,15 @@
 Description=The Spawn FastCGI 
 After=network.target 
 
+[Unit]
+Description=Spawn FastCGI scripts to be used by web servers
+After=network.target
+
 [Service]
-# Type  = notify
-User  = apache
-Group = apache
+Type=simple
 EnvironmentFile=/etc/sysconfig/spawn-fcgi
 ExecStart=/usr/bin/spawn-fcgi $OPTIONS
-StandardOutput = null
-StandardInput  = socket
-StandardError  = null
-Restart = always
+KillMode=process
 
 [Install]
 WantedBy=multi-user.target

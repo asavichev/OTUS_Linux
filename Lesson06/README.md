@@ -3,26 +3,14 @@
 
 systemctl start myscan.service
 
-ќсталась проблема с запуском 2 httpd сервисов на одном хосте
-ѕо отдельности каждый сервис стартует нормально:
 
 systemctl start httpd@httpd.service
 systemctl start httpd@httpd1.service
 
-вместе не живут так как бор€тс€ за один PID /run/httpd/httpd.pid.
+—ервисы заработали оказываетс€ невнимательно читал доку.
+ѕомогла конструкци€ в apache.conf:
 
- ак указано в доке на сайте apache.com 
-PidFile=/run/httpd/httpd.pid - не проходит тест
+PidFile /run/httpd/httpd.pid
+PidFile /run/httpd/httpd1.pid
 
-ћетодом поиска в google пробовал след настройки ничего не помогло.
-
-DEFAULT_PIDLOG=/run/httpd/httpd1.pid
-PIDLOG=/run/httpd/httpd1.pid
-APACHE_PID_FILE=/run/httpd/httpd1.pid
-
-Ѕуду презнателен если вы подскажете решение дл€ данной сборки.
- онечно есть вариан собрать свой apache из исходников но как то это не совсем в тему.
-
-Ќаписал юнит дл€ запуска fastcgi но запустить его не смог даже через servic, возможно 
-€ просто не умею его готовить. Ќикогда не приходилось настраивать данный сервис.
-—кладываетс€ такое ощушение что его нужно интегрировать с apache но у мен€ что то не вышло.
+“ак же решилс€ вопрос с запуском сервиса fastcgi
